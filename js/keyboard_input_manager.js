@@ -1,5 +1,7 @@
-function KeyboardInputManager() {
+function KeyboardInputManager(player) {
+  console.log("KeyboardInputManager -["+player+"]");
   this.events = {};
+  this.player = player;
 
   if (window.navigator.msPointerEnabled) {
     //Internet Explorer 10 style
@@ -33,21 +35,37 @@ KeyboardInputManager.prototype.emit = function (event, data) {
 
 KeyboardInputManager.prototype.listen = function () {
   var self = this;
-
-  var map = {
-    38: 0, // Up
-    39: 1, // Right
-    40: 2, // Down
-    37: 3, // Left
-    75: 0, // Vim up
-    76: 1, // Vim right
-    74: 2, // Vim down
-    72: 3, // Vim left
-    87: 0, // W
-    68: 1, // D
-    83: 2, // S
-    65: 3  // A
-  };
+  if(this.player == "player1"){
+    var map = {
+      38: 0, // Up
+      39: 1, // Right
+      40: 2, // Down
+      37: 3, // Left
+    };
+  } else if(this.player == "player2"){
+    var map = {
+      87: 0, // W
+      68: 1, // D
+      83: 2, // S
+      65: 3  // A
+    };
+  } else {
+    var map = {
+      38: 0, // Up
+      39: 1, // Right
+      40: 2, // Down
+      37: 3, // Left
+      75: 0, // Vim up
+      76: 1, // Vim right
+      74: 2, // Vim down
+      72: 3, // Vim left
+      87: 0, // W
+      68: 1, // D
+      83: 2, // S
+      65: 3  // A
+    };
+  }
+  
 
   // Respond to direction keys
   document.addEventListener("keydown", function (event) {

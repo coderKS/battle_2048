@@ -1,16 +1,16 @@
-function GameManager(size, InputManager, Actuator, StorageManager) {
+function GameManager(size, InputManager, Actuator, StorageManager, TimerManager, player) {
   this.size           = size; // Size of the grid
-  this.inputManager   = new InputManager;
+  this.inputManager   = new InputManager(player);
   this.storageManager = new StorageManager;
-  this.actuator       = new Actuator;
-
+  this.actuator       = new Actuator(player);
+  this.timer          = new TimerManager(this);
   this.startTiles     = 2;
-
   this.inputManager.on("move", this.move.bind(this));
   this.inputManager.on("restart", this.restart.bind(this));
   this.inputManager.on("keepPlaying", this.keepPlaying.bind(this));
-
   this.setup();
+  this.timer.reset();
+  this.timer.startCount();
 }
 
 // Restart the game
@@ -18,6 +18,8 @@ GameManager.prototype.restart = function () {
   this.storageManager.clearGameState();
   this.actuator.continueGame(); // Clear the game won/lost message
   this.setup();
+  this.timer.reset();
+  this.timer.startCount();
 };
 
 // Keep playing after winning (allows going over 2048)

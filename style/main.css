@@ -1,4 +1,32 @@
 @import url(fonts/clear-sans.css);
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+#minutes {
+  font-size: 100px;
+  color: #f6da74;
+}
+#seconds {
+  font-size: 100px;
+  color: #abcd58;
+}
+.countdown {
+  height: 100px;
+}
+.countdown div {
+  display: inline-block;
+  line-height: 1;
+  /*padding: 20px;*/
+  font-size: 40px;
+}
+
+.countdown span {
+  display: block;
+  font-size: 20px;
+  color: white;
+}
+
+
+
 html, body {
   margin: 0;
   padding: 0;
@@ -10,6 +38,12 @@ html, body {
 body {
   margin: 80px 0; }
 
+body {
+  text-align: center;
+  font-family: 'Covered By Your Grace', cursive;
+  color: white;
+  background: #222;
+}
 .heading:after {
   content: "";
   display: block;
@@ -46,24 +80,32 @@ h1.title {
   100% {
     top: -50px;
     opacity: 0; } }
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
 .scores-container {
   float: right;
   text-align: right; }
 
-.score-container, .best-container {
+.score-container-player2, .best-container-player2 {
   position: relative;
   display: inline-block;
   background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
-  height: 25px;
+  height: 60px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
   color: white;
   margin-top: 8px;
   text-align: center; }
-  .score-container:after, .best-container:after {
+  .score-container-player2:after, .best-container-player2:after {
     position: absolute;
     width: 100%;
     top: 10px;
@@ -73,7 +115,7 @@ h1.title {
     line-height: 13px;
     text-align: center;
     color: #eee4da; }
-  .score-container .score-addition, .best-container .score-addition {
+  .score-container-player2 .score-addition, .best-container-player2 .score-addition {
     position: absolute;
     right: 30px;
     color: red;
@@ -89,10 +131,10 @@ h1.title {
     -moz-animation-fill-mode: both;
     animation-fill-mode: both; }
 
-.score-container:after {
+.score-container-player2:after {
   content: "Score"; }
 
-.best-container:after {
+.best-container-player2:after {
   content: "Best"; }
 
 p {
@@ -156,7 +198,7 @@ hr {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
-  .game-container .game-message {
+  .game-container .game-message-player2 {
     display: none;
     position: absolute;
     top: 0;
@@ -172,16 +214,16 @@ hr {
     -webkit-animation-fill-mode: both;
     -moz-animation-fill-mode: both;
     animation-fill-mode: both; }
-    .game-container .game-message p {
+    .game-container .game-message-player2 p {
       font-size: 60px;
       font-weight: bold;
       height: 60px;
       line-height: 60px;
       margin-top: 222px; }
-    .game-container .game-message .lower {
+    .game-container .game-message-player2 .lower {
       display: block;
       margin-top: 59px; }
-    .game-container .game-message a {
+    .game-container .game-message-player2 a {
       display: inline-block;
       background: #8f7a66;
       border-radius: 3px;
@@ -191,14 +233,14 @@ hr {
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }
-      .game-container .game-message a.keep-playing-button {
+      .game-container .game-message-player2 a.keep-playing-button {
         display: none; }
-    .game-container .game-message.game-won {
+    .game-container .game-message-player2.game-won {
       background: rgba(237, 194, 46, 0.5);
       color: #f9f6f2; }
-      .game-container .game-message.game-won a.keep-playing-button {
+      .game-container .game-message-player2.game-won a.keep-playing-button {
         display: inline-block; }
-    .game-container .game-message.game-won, .game-container .game-message.game-over {
+    .game-container .game-message-player2.game-won, .game-container .game-message-player2.game-over {
       display: block; }
 
 .grid-container {
@@ -224,7 +266,7 @@ hr {
   .grid-cell:last-child {
     margin-right: 0; }
 
-.tile-container {
+.tile-container-player2 {
   position: absolute;
   z-index: 2; }
 
@@ -565,7 +607,7 @@ hr {
     width: 280px;
     margin: 0 auto; }
 
-  .score-container, .best-container {
+  .score-container-player2, .best-container-player2 {
     margin-top: 0;
     padding: 15px 10px;
     min-width: 40px; }
@@ -605,7 +647,7 @@ hr {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
-    .game-container .game-message {
+    .game-container .game-message-player2 {
       display: none;
       position: absolute;
       top: 0;
@@ -621,16 +663,16 @@ hr {
       -webkit-animation-fill-mode: both;
       -moz-animation-fill-mode: both;
       animation-fill-mode: both; }
-      .game-container .game-message p {
+      .game-container .game-message-player2 p {
         font-size: 60px;
         font-weight: bold;
         height: 60px;
         line-height: 60px;
         margin-top: 222px; }
-      .game-container .game-message .lower {
+      .game-container .game-message-player2 .lower {
         display: block;
         margin-top: 59px; }
-      .game-container .game-message a {
+      .game-container .game-message-player2 a {
         display: inline-block;
         background: #8f7a66;
         border-radius: 3px;
@@ -640,14 +682,14 @@ hr {
         height: 40px;
         line-height: 42px;
         margin-left: 9px; }
-        .game-container .game-message a.keep-playing-button {
+        .game-container .game-message-player2 a.keep-playing-button {
           display: none; }
-      .game-container .game-message.game-won {
+      .game-container .game-message-player2.game-won {
         background: rgba(237, 194, 46, 0.5);
         color: #f9f6f2; }
-        .game-container .game-message.game-won a.keep-playing-button {
+        .game-container .game-message-player2.game-won a.keep-playing-button {
           display: inline-block; }
-      .game-container .game-message.game-won, .game-container .game-message.game-over {
+      .game-container .game-message-player2.game-won, .game-container .game-message-player2.game-over {
         display: block; }
 
   .grid-container {
@@ -673,7 +715,7 @@ hr {
     .grid-cell:last-child {
       margin-right: 0; }
 
-  .tile-container {
+  .tile-container-player2 {
     position: absolute;
     z-index: 2; }
 
@@ -765,10 +807,10 @@ hr {
   .tile .tile-inner {
     font-size: 35px; }
 
-  .game-message p {
+  .game-message-player2 p {
     font-size: 30px !important;
     height: 30px !important;
     line-height: 30px !important;
     margin-top: 90px !important; }
-  .game-message .lower {
+  .game-message-player2 .lower {
     margin-top: 30px !important; } }

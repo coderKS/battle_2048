@@ -5,6 +5,7 @@
   <title>2048</title>
 
   <link href="style/main.css" rel="stylesheet" type="text/css">
+  <link href="style/main2.css" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="favicon.ico">
   <link rel="apple-touch-icon" href="meta/apple-touch-icon.png">
   <link rel="apple-touch-startup-image" href="meta/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone 5+ -->
@@ -15,60 +16,134 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+  <!-- Latest compiled and minified CSS -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+  <!-- Optional theme -->
+<!--   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
+
+  <!-- Latest compiled and minified JavaScript -->
+<!--   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
 </head>
 <body>
   <div class="container">
-
-
+    <div class="countdown">
+      <div id="timer">
+        <div id="minutes"></div>
+        <div id="seconds"></div>
+      </div>
+    </div>
     <div class="above-game">
       <p class="game-intro">Join the numbers and get to the <strong>2048 tile!</strong></p>
       <a class="restart-button">New Game</a>
     </div>
 
-    <div class="game-container">
-      <div class="game-message">
-        <p></p>
-        <div class="lower">
-	        <a class="keep-playing-button">Keep going</a>
-          <a class="retry-button">Try again</a>
+    <div class="row">
+      <div class="col left">
+        <div class="heading">
+          <h1 class="title">2048</h1>
+          <div class="scores-container">
+            <div class="score-container-player2">0</div>
+            <div class="best-container-player2">0</div>
+          </div>
         </div>
-      </div>
+        
+        <div class="game-container">
+          <div class="game-message-player2">
+            <p></p>
+            <div class="lower">
+              <a class="keep-playing-button">Keep going</a>
+              <a class="retry-button">Try again</a>
+            </div>
+          </div>
 
-      <div class="grid-container">
-        <div class="grid-row">
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-        </div>
-        <div class="grid-row">
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-        </div>
-        <div class="grid-row">
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-        </div>
-        <div class="grid-row">
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-          <div class="grid-cell"></div>
-        </div>
-      </div>
+          <div class="grid-container">
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+          </div>
 
-      <div class="tile-container">
+          <div class="tile-container-player2">
 
       </div>
     </div>
+      </div>
+      <div class="col right">
+        <div class="heading">
+          <h1 class="title">2048</h1>
+          <div class="scores-container-player1">
+            <div class="score-container-player1">0</div>
+            <div class="best-container-player1">0</div>
+          </div>
+        </div>
+        <div class="game-container">
+          <div class="game-message-player1">
+            <p></p>
+            <div class="lower">
+              <a class="keep-playing-button">Keep going</a>
+              <a class="retry-button">Try again</a>
+            </div>
+          </div>
+
+          <div class="grid-container">
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+            <div class="grid-row">
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+              <div class="grid-cell"></div>
+            </div>
+          </div>
+
+          <div class="tile-container-player1">
+      </div>
+      
+    </div>
+
+    
 
    
   </div>
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="js/bind_polyfill.js"></script>
   <script src="js/classlist_polyfill.js"></script>
   <script src="js/animframe_polyfill.js"></script>
@@ -79,5 +154,6 @@
   <script src="js/local_storage_manager.js"></script>
   <script src="js/game_manager.js"></script>
   <script src="js/application.js"></script>
+  <script src="js/timer_manager.js"></script>
 </body>
 </html>

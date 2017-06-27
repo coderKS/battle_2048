@@ -1,8 +1,9 @@
-function HTMLActuator() {
-  this.tileContainer    = document.querySelector(".tile-container");
-  this.scoreContainer   = document.querySelector(".score-container");
-  this.bestContainer    = document.querySelector(".best-container");
-  this.messageContainer = document.querySelector(".game-message");
+function HTMLActuator(player) {
+  console.log("HTMLActuator# ["+player+"]");
+  this.tileContainer    = document.querySelector(".tile-container" + "-" +player);
+  this.scoreContainer   = document.querySelector(".score-container" + "-" +player);
+  this.bestContainer    = document.querySelector(".best-container" + "-" +player);
+  this.messageContainer = document.querySelector(".game-message" + "-" +player);
 
   this.score = 0;
 }
@@ -62,7 +63,8 @@ HTMLActuator.prototype.addTile = function (tile) {
   this.applyClasses(wrapper, classes);
 
   inner.classList.add("tile-inner");
-  // inner.textContent = tile.value;
+  // hide the value
+  // inner.textContent = tile.value; 
 
   if (tile.previousPosition) {
     // Make sure that the tile gets rendered in the previous position first
