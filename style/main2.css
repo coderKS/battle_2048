@@ -51,7 +51,7 @@
 .tile-container-player1 {
   position: absolute;
   z-index: 2; }
-  
+
 .game-container {
   margin-top: 40px;
   position: relative;
@@ -64,7 +64,7 @@
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: grey;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -124,7 +124,9 @@
     padding: 15px 10px;
     min-width: 40px; }
 
-  
+  .tile-container-player1 {
+    position: absolute;
+    z-index: 2; }
 
   .game-container {
     margin-top: 17px;

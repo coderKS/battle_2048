@@ -1,4 +1,5 @@
 function GameManager(size, InputManager, Actuator, StorageManager, TimerManager, player) {
+  this.player         = player;
   this.size           = size; // Size of the grid
   this.inputManager   = new InputManager(player);
   this.storageManager = new StorageManager;
@@ -247,7 +248,7 @@ GameManager.prototype.tileMatchesAvailable = function () {
 
   var tile;
 
-  for (var x = 0; x < this.size; x++) {
+  for (var x = 0; x < this.size; x++) { 
     for (var y = 0; y < this.size; y++) {
       tile = this.grid.cellContent({ x: x, y: y });
 

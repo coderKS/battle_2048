@@ -1,8 +1,9 @@
 function TimerManager(GameManager){
 	this.gameManager = GameManager;
 	this.initTime = new Date();
-	this.gameMinute = 1;
+	this.gameMinute = 2;
 	this.initTime.setMinutes(this.initTime.getMinutes()+this.gameMinute);
+	// this.initTime.setSeconds(this.initTime.getSeconds()+10);
 }
 
 TimerManager.prototype.reset = function(){
@@ -18,12 +19,35 @@ TimerManager.prototype.startCount = function() {
 		var now = new Date();
 		var now = (Date.parse(now) / 1000);
 		var timeLeft = endTime - now;
+		var score1 = -1;
+		var score2 = -1;
 		if(timeLeft == 0){
-			this.gameManager.over = true;
+			console.log(self.gameManager);
+			self.gameManager.over = true;
+			if(self.gameManager.player == "player1"){
+				// console.log("player1 score=["+self.gameManager.score+"]");
+				score1 = self.gameManager.score;
+				var clone = $('.score-container-player2').clone();
+				clone.find('div').remove();
+				score2 = clone.html();
+				// console.log("player2 score=["+score2+"]");
+			} else if(self.gameManager.player == "player2"){
+				// console.log("player2 score=["+self.gameManager.score+"]");
+				score1 = self.gameManager.score;
+				var clone = $('.score-container-player1').clone();
+				clone.find('div').remove();
+				score2 = clone.html();
+				// console.log("player1 score=["+score2+"]");
+			}
+			if(score2 > score1){
+				self.gameManager.actuator.message(false); // You lose
+			} else {
+				self.gameManager.actuator.message(true); // You win!
+			} 
+
+			clearInterval(countDownInterval);
 		}
 	},1000);
-	
-
 }
 
 TimerManager.prototype.makeTimer = function() {
