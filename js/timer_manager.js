@@ -1,7 +1,7 @@
 function TimerManager(GameManager){
 	this.gameManager = GameManager;
 	this.initTime = new Date();
-	this.gameMinute = 2;
+	this.gameMinute = 1;
 	this.initTime.setMinutes(this.initTime.getMinutes()+this.gameMinute);
 	// this.initTime.setSeconds(this.initTime.getSeconds()+10);
 }
@@ -9,11 +9,21 @@ function TimerManager(GameManager){
 TimerManager.prototype.reset = function(){
 	this.initTime = new Date();
 	this.initTime.setMinutes(this.initTime.getMinutes()+this.gameMinute);
+	if(this.bg_player){
+		this.bg_player.pause();
+	}
+	if(this.countdown_player){
+		this.countdown_player.pause();
+	}
+	if(this.countDownInterval){
+		clearInterval(this.countDownInterval);
+	}
 }
 
 TimerManager.prototype.startCount = function() {
+
 	var self = this;
-	var countDownInterval = setInterval(function() {
+	self.countDownInterval = setInterval(function() {
 		self.makeTimer();
 		var endTime = (Date.parse(self.initTime)) / 1000;
 		var now = new Date();
@@ -21,6 +31,15 @@ TimerManager.prototype.startCount = function() {
 		var timeLeft = endTime - now;
 		var score1 = -1;
 		var score2 = -1;
+		if(timeLeft == 10 && self.gameManager.player == "player1"){
+			console.log("countdown starts");
+			if(self.bg_player){
+				console.log("stop bg_player");
+				self.bg_player.pause();
+			}
+			self.countdown_player = new Audio('sound/countdown.mp3');
+			self.countdown_player.play(); // play count down sound
+		}
 		if(timeLeft == 0){
 			console.log(self.gameManager);
 			self.gameManager.over = true;
@@ -45,9 +64,13 @@ TimerManager.prototype.startCount = function() {
 				self.gameManager.actuator.message(true); // You win!
 			} 
 
-			clearInterval(countDownInterval);
+			clearInterval(self.countDownInterval);
 		}
 	},1000);
+	if(this.gameManager.player == "player1"){
+		this.bg_player = new Audio('sound/bg-music.mp3');
+		this.bg_player.play();
+	}
 }
 
 TimerManager.prototype.makeTimer = function() {

@@ -8,14 +8,17 @@
   display: inline-block;
   background: #bbada0;
   padding: 15px 25px;
-  font-size: 25px;
+  font-size: 45px;
   height: 60px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
   color: white;
   margin-top: 8px;
-  text-align: center; }
+  text-align: center;
+  width: 100px;
+  height: 70px;
+  /* padding: 20px; */}
   .score-container-player1:after, .best-container-player1:after {
     position: absolute;
     width: 100%;
@@ -48,12 +51,16 @@
 .best-container-player1:after {
   content: "Best"; }
 
+.best-container-player1{
+  display: none !important;
+}
+
 .tile-container-player1 {
   position: absolute;
   z-index: 2; }
 
 .game-container {
-  margin-top: 40px;
+  margin-top: 20px;
   position: relative;
   padding: 15px;
   cursor: default;
@@ -112,7 +119,7 @@
       background: rgba(237, 194, 46, 0.5);
       color: #f9f6f2; }
       .game-container .game-message-player1.game-won a.keep-playing-button {
-        display: inline-block; }
+        /*display: inline-block; */}
     .game-container .game-message-player1.game-won, .game-container .game-message-player1.game-over {
       display: block; }
 
