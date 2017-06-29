@@ -1,20 +1,18 @@
-function Grid(size, previousState) {
+function Grid(size, previousState, timerManager) {
   this.size = size;
   this.cells = previousState ? this.fromState(previousState) : this.empty();
+  this.timerManager = timerManager;
 }
 
 // Build a grid of the specified size
 Grid.prototype.empty = function () {
   var cells = [];
-
   for (var x = 0; x < this.size; x++) {
     var row = cells[x] = [];
-
     for (var y = 0; y < this.size; y++) {
       row.push(null);
     }
   }
-
   return cells;
 };
 
@@ -89,6 +87,25 @@ Grid.prototype.cellContent = function (cell) {
 Grid.prototype.insertTile = function (tile) {
   console.log("Grid# insertTile:");
   console.log(tile);
+  var self = this;
+  if(tile.value == 128){
+    var gotcha_player = new Audio('sound/chris.mp3');
+    // setInterval(function(){
+
+    //   self.timerManager.bg_player.play();
+    // },1000);
+    gotcha_player.play();
+    // self.timerManager.bg_player.pause();
+  }
+  if(tile.value == 256){
+    var gotcha_player = new Audio('sound/billy.mp3');
+    // setInterval(function(){
+
+    //   self.timerManager.bg_player.play();
+    // },1000);
+    gotcha_player.play();
+    // self.timerManager.bg_player.pause();
+  }
   this.cells[tile.x][tile.y] = tile;
 };
 

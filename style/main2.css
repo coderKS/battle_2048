@@ -59,6 +59,16 @@
   position: absolute;
   z-index: 2; }
 
+.game-container .game-message-player1.game-pause{
+  display: block;
+  background: rgba(16, 16, 16, 0.6);
+}
+
+.game-container .game-message-player2.game-pause{
+  display: block;
+  background: rgba(16, 16, 16, 0.6);
+}
+
 .game-container {
   margin-top: 20px;
   position: relative;
@@ -206,3 +216,21 @@
     margin-top: 90px !important; }
   .game-message-player1 .lower {
     margin-top: 30px !important; } }
+
+@media only screen and (min-width: 993px){
+  .container {
+    width: 80%;
+  }
+}
+
+/* No greater than 900px, no less than 400px */
+@media (max-width:1236px) and (min-width:200px) {
+    .col.right {
+      float: left !important;
+    }
+
+    .restart-button {
+      margin-top: -10px;
+      left: 9%;
+    }
+}​

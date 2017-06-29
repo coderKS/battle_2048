@@ -1,5 +1,6 @@
-function HTMLActuator(player) {
+function HTMLActuator(player, gameManager) {
   console.log("HTMLActuator# ["+player+"]");
+  this.gameManager      = gameManager;
   this.tileContainer    = document.querySelector(".tile-container" + "-" +player);
   this.scoreContainer   = document.querySelector(".score-container" + "-" +player);
   this.bestContainer    = document.querySelector(".best-container" + "-" +player);
@@ -9,7 +10,11 @@ function HTMLActuator(player) {
 }
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
+  console.log("HTMLActuator# actuate - start");
+  console.log(grid);  
+  // console.log(game_manager);
   var self = this;
+
 
   window.requestAnimationFrame(function () {
     self.clearContainer(self.tileContainer);
@@ -27,7 +32,9 @@ HTMLActuator.prototype.actuate = function (grid, metadata) {
 
     if (metadata.terminated) {
       if (metadata.over) {
-        self.message(false); // You lose
+        console.log("metadata");
+        self.gameManager.resetGrid();
+        
       } else if (metadata.won) {
         self.message(true); // You win!
       }
@@ -138,4 +145,5 @@ HTMLActuator.prototype.clearMessage = function () {
   // IE only takes one value to remove at a time.
   this.messageContainer.classList.remove("game-won");
   this.messageContainer.classList.remove("game-over");
+  this.messageContainer.classList.remove("game-pause");
 };

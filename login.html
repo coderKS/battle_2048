@@ -1,103 +1,56 @@
 <html>
 	<head>
-		<style>
-			video { 
-			    position: fixed;
-			    top: 50%;
-			    left: 50%;
-			    min-width: 100%;
-			    min-height: 100%;
-			    width: auto;
-			    height: auto;
-			    z-index: -100;
-			    transform: translateX(-50%) translateY(-50%);
-			 background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
-			  background-size: cover;
-			  transition: 1s opacity;
-			}
-			.stopfade { 
-			   opacity: .5;
-			}
-
-			#polina { 
-			  font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
-			  font-weight:100; 
-			  background: rgba(0,0,0,0.3);
-			  color: white;
-			  padding: 2rem;
-			  width: 33%;
-			  margin:2rem;
-			  float: right;
-			  font-size: 1.2rem;
-			}
-			h1 {
-			  font-size: 3rem;
-			  text-transform: uppercase;
-			  margin-top: 0;
-			  letter-spacing: .3rem;
-			}
-			#polina button { 
-			  display: block;
-			  width: 80%;
-			  padding: .4rem;
-			  border: none; 
-			  margin: 1rem auto; 
-			  font-size: 1.3rem;
-			  background: rgba(255,255,255,0.23);
-			  color: #fff;
-			  border-radius: 3px; 
-			  cursor: pointer;
-			  transition: .3s background;
-			}
-			#polina button:hover { 
-			   background: rgba(0,0,0,0.5);
-			}
-
-			a {
-			  display: inline-block;
-			  color: #fff;
-			  text-decoration: none;
-			  background:rgba(0,0,0,0.5);
-			  padding: .5rem;
-			  transition: .6s background; 
-			}
-			a:hover{
-			  background:rgba(0,0,0,0.9);
-			}
-			@media screen and (max-width: 500px) { 
-			  div{width:70%;} 
-			}
-			@media screen and (max-device-width: 800px) {
-			  html { background: url(fdm-logo.jpg) #000 no-repeat center center fixed; }
-			  #bgvid { display: none; }
-			}
-		</style>
+		<link href="style/login.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
 	</head>
 	<body>
 		<video id="bgvid" playsinline autoplay muted loop>
 			<source src="video/bg-video.mp4" type="video/mp4">
 		</video>
-		<script>
-			var vid = document.getElementById("bgvid");
-
-			if (window.matchMedia('(prefers-reduced-motion)').matches) {
-			    vid.removeAttribute("autoplay");
-			    vid.pause();
-			    pauseButton.innerHTML = "Paused";
-			}
-
-			function vidFade() {
-			  vid.classList.add("stopfade");
-			}
-
-			vid.addEventListener('ended', function()
-			{
-			// only functional if "loop" is removed 
-			vid.pause();
-			// to capture IE10
-			vidFade();
-			}); 
-		</script>
+		<div class="container">
+			<div class="login-banner">
+				<p> FDM 2048 </p>
+			</div>
+			<div class="row">
+				<div class="col m6">
+					<div id="startMenu" class="player1-menu">
+						<p>Player 1</p>
+			            <input id="player1-name" type="text" tabindex="0" autofocus placeholder="Enter your name here" id="playerNameInput" maxlength="25" />
+			            <div class="input-warning red-text hide-text">Name is not valid</div>
+			            <br />
+			            <button class="spectateButton">Play</button>
+			            <br />
+			            
+			            <div id="instructions">
+			                <h3><p class="centre">Control</p></h3>
+			                <div class="img-container enlarge-top">
+			                	<img class="control enlarge" src="images/control2.png">
+			                </div>
+			                
+			            </div>
+			        </div>
+				</div>
+				<div class="col m6">
+					<div id="startMenu" class="player2-menu">
+						<p>Player 2</p>
+			            <input id="player2-name" type="text" tabindex="0" autofocus placeholder="Enter your name here" id="playerNameInput" maxlength="25" />
+			            <div class="input-warning red-text hide-text">Name is not valid</div>
+			            <br />
+			            <button class="spectateButton">Play</button>
+			            <br />
+			           
+			            <div id="instructions">
+			                <h3><p  class="centre">Control</p></h3>
+			                <div class="img-container">
+			                	<img class="control" src="images/control1.png">
+			                </div>
+			            </div>
+			        </div>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="js/login.js"></script>
 	</body>
 
 </html>

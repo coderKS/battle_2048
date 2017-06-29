@@ -78,7 +78,6 @@ TimerManager.prototype.makeTimer = function() {
 	var now = new Date();
 	var now = (Date.parse(now) / 1000);
 	var timeLeft = endTime - now;
-
 	var days = Math.floor(timeLeft / 86400); 
 	var hours = Math.floor((timeLeft - (days * 86400)) / 3600);
 	var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600 )) / 60);

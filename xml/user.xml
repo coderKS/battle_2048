@@ -1,0 +1,18 @@
+<addresses>
+  <address>
+    <street>Roble Ave</street>
+    <mtfcc>S1400</mtfcc>
+  </address>
+  <address>
+    <street>Roble B</street>
+    <mtfcc>S1500</mtfcc>
+  </address>
+  <address>
+    <street>Roble C</street>
+    <mtfcc>S1600</mtfcc>
+  </address>
+  <address>
+    <street>Roble D</street>
+    <mtfcc>S1700</mtfcc>
+  </address>
+</addresses>

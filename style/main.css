@@ -103,6 +103,7 @@ h1.title {
   float: right;
   text-align: right; }
 
+
 .score-container-player2, .best-container-player2 {
   position: relative;
   display: inline-block;
@@ -604,17 +605,27 @@ hr {
   margin-bottom: 0; }
 
 .restart-button {
-  display: inline-block;
-  background: #8f7a66;
-  border-radius: 3px;
-  padding: 0 20px;
-  text-decoration: none;
-  color: #f9f6f2;
-  height: 40px;
-  line-height: 42px;
-  display: block;
-  text-align: center;
-  float: right; }
+      display: inline-block;
+    background: #8f7a66;
+    border-radius: 3px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: #f9f6f2;
+    height: 40px;
+    line-height: 42px;
+    display: block;
+    text-align: center;
+    float: right;
+    position: absolute;
+    /* margin-top: 380px; */
+    z-index: 200;
+    margin: 0 auto;
+    margin-top: 380px;
+    left: calc(50% - 150px);
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+}
 
 .game-explanation {
   margin-top: 50px; }

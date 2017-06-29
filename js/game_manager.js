@@ -3,7 +3,7 @@ function GameManager(size, InputManager, Actuator, StorageManager, TimerManager,
   this.size           = size; // Size of the grid
   this.inputManager   = new InputManager(player);
   this.storageManager = new StorageManager;
-  this.actuator       = new Actuator(player);
+  this.actuator       = new Actuator(player, this);
   this.timer          = new TimerManager(this);
   this.startTiles     = 2;
   this.inputManager.on("move", this.move.bind(this));
@@ -16,12 +16,62 @@ function GameManager(size, InputManager, Actuator, StorageManager, TimerManager,
 
 // Restart the game
 GameManager.prototype.restart = function () {
+  console.log("GameManager# restart - start");
   this.storageManager.clearGameState();
   this.actuator.continueGame(); // Clear the game won/lost message
   this.setup();
   this.timer.reset();
   this.timer.startCount();
-};
+};   
+
+// Reset grid
+GameManager.prototype.resetGrid = function () {
+  console.log("GameManager# restart - start");
+  if(this.player == "player1"){
+    $(".game-container .game-message-player1").addClass("game-pause");
+    $(".game-container .game-message-player1 p").html("You are dead! Wait 15s");
+    $(".game-container .game-message-player1 .lower").hide();
+  } else {
+    $(".game-container .game-message-player2").addClass("game-pause");
+    $(".game-container .game-message-player2 p").html("You are dead! Wait 15s");
+    $(".game-container .game-message-player2 .lower").hide();
+  }
+  
+  var self = this;
+  self.over = true;
+  
+  setTimeout(function (){
+    var temp_score = self.score;
+    self.storageManager.clearGameState();
+    // this.actuator.continueGame(); // Clear the game won/lost message
+    self.setup();
+    self.score       = temp_score;
+    // this.timer.reset();
+    // this.timer.startCount();
+    self.grid        = new Grid(self.size, null, this.timer);
+    
+
+    self.won         = false;
+    self.keepPlaying = false;
+    // Add the initial tiles
+    self.addStartTiles();
+    // Update the actuator
+    if(self.player == "player1"){
+      $(".game-container .game-message-player1").removeClass("game-pause");
+      $(".game-container .game-message-player1 p").html("You are dead!");
+      $(".game-container .game-message-player1 .lower").show();
+    } else {
+      $(".game-container .game-message-player2").removeClass("game-pause");
+      $(".game-container .game-message-player2 p").html("You are dead!");
+      $(".game-container .game-message-player2 .lower").show();
+    }
+    
+    self.actuate();
+
+  }, 15000);
+ 
+};   
+
 
 // Keep playing after winning (allows going over 2048)
 GameManager.prototype.keepPlaying = function () {
@@ -37,26 +87,23 @@ GameManager.prototype.isGameTerminated = function () {
 // Set up the game
 GameManager.prototype.setup = function () {
   var previousState = this.storageManager.getGameState();
-
   // Reload the game from a previous game if present
-  if (previousState) {
-    this.grid        = new Grid(previousState.grid.size,
-                                previousState.grid.cells); // Reload grid
-    this.score       = previousState.score;
-    this.over        = previousState.over;
-    this.won         = previousState.won;
-    this.keepPlaying = previousState.keepPlaying;
-  } else {
+  // if (previousState) {
+  //   this.grid        = new Grid(previousState.grid.size,
+  //                               previousState.grid.cells); // Reload grid
+  //   this.score       = previousState.score;
+  //   this.over        = previousState.over;
+  //   this.won         = previousState.won;
+  //   this.keepPlaying = previousState.keepPlaying;
+  // } else {
     this.grid        = new Grid(this.size);
     this.score       = 0;
     this.over        = false;
     this.won         = false;
     this.keepPlaying = false;
-
     // Add the initial tiles
     this.addStartTiles();
-  }
-
+  // }
   // Update the actuator
   this.actuate();
 };
