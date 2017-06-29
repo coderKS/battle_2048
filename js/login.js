@@ -43,11 +43,11 @@ $(document).ready(function(){
 
 		if(valid){
 			console.log("Valid!");
-			window.location.replace("./index.html" + "?player1="+name1+"&player2="+name2);
+			window.location.replace("./selectCharacter.html" + "?player1="+name1+"&player2="+name2);
 		}
 	});
 });
 
 function isValid(str){
- return !/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/g.test(str);
+ 	return !/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/g.test(str);
 }

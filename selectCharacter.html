@@ -1,0 +1,231 @@
+<html>
+	<head>
+		<title>2048</title>
+		<link rel="shortcut icon" href="images/fdm-logo.png">
+		<link href="style/login.css" rel="stylesheet" type="text/css">
+		<link href="style/select.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+	</head>
+	<body>
+		<video id="bgvid" playsinline autoplay muted loop>
+			<source src="video/bg-video.mp4" type="video/mp4">
+		</video>
+		<div class="container">
+			<div class="login-banner">
+				<p> FDM 2048 </p>
+			</div>
+			<div class="row">
+				<div class="col m6">
+					<div id="startMenu" class="player1-menu">
+						<p class="player-name">Player 1</p>
+							<ul class="slides player1">
+								<form id="player1-option">
+						    <input type="radio" name="radio-btn" id="img-1-1" checked />
+						    <li class="slide-container">
+									<div class="slide">
+										<img src="images/ken.jpg" />
+					        </div>
+									<div class="nav">
+										<label for="img-1-8" class="prev">&#x2039;</label>
+										<label for="img-1-2" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-2" />
+							    <li class="slide-container">
+							        <div class="slide">
+							          <img src="images/eric.jpg" />
+							        </div>
+									<div class="nav">
+										<label for="img-1-1" class="prev">&#x2039;</label>
+										<label for="img-1-3" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-3" />
+							    <li class="slide-container">
+							        <div class="slide">
+							          <img src="images/sherry.jpg" />
+							        </div>
+									<div class="nav">
+										<label for="img-1-2" class="prev">&#x2039;</label>
+										<label for="img-1-4" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-4" />
+							    <li class="slide-container">
+							        <div class="slide">
+							          <img src="images/joyce.jpg" />
+							        </div>
+									<div class="nav">
+										<label for="img-1-3" class="prev">&#x2039;</label>
+										<label for="img-1-5" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-5" />
+							    <li class="slide-container">
+							        <div class="slide">
+							          <img src="images/janet.jpg" />
+							        </div>
+									<div class="nav">
+										<label for="img-1-4" class="prev">&#x2039;</label>
+										<label for="img-1-6" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-6" />
+							    <li class="slide-container">
+							        <div class="slide">
+							          <img src="images/dennis.jpg" />
+							        </div>
+									<div class="nav">
+										<label for="img-1-5" class="prev">&#x2039;</label>
+										<label for="img-1-7" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-7" />
+							    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/chris_hidden.jpg" />
+						        </div>
+									<div class="nav">
+										<label for="img-1-6" class="prev">&#x2039;</label>
+										<label for="img-1-8" class="next">&#x203a;</label>
+									</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-1-8" />
+							    <li class="slide-container">
+							      <div class="slide">
+						          <img src="images/billy_hidden.jpg" />
+							      </div>
+									<div class="nav">
+										<label for="img-1-7" class="prev">&#x2039;</label>
+										<label for="img-1-1" class="next">&#x203a;</label>
+									</div>
+						    </li>
+						    </form>
+						</ul>
+            <br />
+
+            <button class="spectateButton">Play</button>
+            <div class="input-warning red-text hide-text">Cannot select locked character</div>
+            <br />
+	        </div>
+				</div>
+				<div class="col m6">
+					<div id="startMenu" class="player2-menu">
+						<p class="player-name">Player 2</p>
+						<ul class="slides player2">
+								<form id="player2-option">
+						    <input type="radio" name="radio-btn" id="img-2-1" checked />
+						    <li class="slide-container">
+									<div class="slide">
+										<img src="images/ken.jpg" />
+					        </div>
+									<div class="nav">
+										<label for="img-2-8" class="prev">&#x2039;</label>
+										<label for="img-2-2" class="next">&#x203a;</label>
+									</div>
+						    </li>
+						    
+
+						    <input type="radio" name="radio-btn" id="img-2-2" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/eric.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-1" class="prev">&#x2039;</label>
+									<label for="img-2-3" class="next">&#x203a;</label>
+								</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-2-3" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/sherry.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-2" class="prev">&#x2039;</label>
+									<label for="img-2-4" class="next">&#x203a;</label>
+								</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-2-4" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/joyce.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-3" class="prev">&#x2039;</label>
+									<label for="img-2-5" class="next">&#x203a;</label>
+								</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-2-5" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/janet.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-4" class="prev">&#x2039;</label>
+									<label for="img-2-6" class="next">&#x203a;</label>
+								</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-2-6" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/dennis.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-5" class="prev">&#x2039;</label>
+									<label for="img-2-7" class="next">&#x203a;</label>
+								</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-2-7" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/chris_hidden.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-6" class="prev">&#x2039;</label>
+									<label for="img-2-8" class="next">&#x203a;</label>
+								</div>
+						    </li>
+
+						    <input type="radio" name="radio-btn" id="img-2-8" />
+						    <li class="slide-container">
+						        <div class="slide">
+						          <img src="images/billy_hidden.jpg" />
+						        </div>
+								<div class="nav">
+									<label for="img-2-7" class="prev">&#x2039;</label>
+									<label for="img-2-1" class="next">&#x203a;</label>
+								</div>
+						    </li>
+						    </form>
+						</ul>
+            <br />
+            
+            <button class="spectateButton">Play</button>
+            <div class="input-warning red-text hide-text">Cannot select locked character</div>
+            <br />
+	        </div>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="js/select_character.js"></script>
+	</body>
+
+</html>
+
+
+
+

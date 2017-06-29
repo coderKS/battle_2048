@@ -4,6 +4,7 @@ function TimerManager(GameManager){
 	this.gameMinute = 1;
 	this.initTime.setMinutes(this.initTime.getMinutes()+this.gameMinute);
 	// this.initTime.setSeconds(this.initTime.getSeconds()+10);
+	this.isTimeEnded = false;
 }
 
 TimerManager.prototype.reset = function(){
@@ -63,7 +64,7 @@ TimerManager.prototype.startCount = function() {
 			} else {
 				self.gameManager.actuator.message(true); // You win!
 			} 
-
+			self.isTimeEnded = true;
 			clearInterval(self.countDownInterval);
 		}
 	},1000);

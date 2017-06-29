@@ -391,7 +391,6 @@ input [type="image"]:focus{
 
 .red-text{
 	color: red !important;
-    font-size: 20px;
 }
 
 .hide-text{

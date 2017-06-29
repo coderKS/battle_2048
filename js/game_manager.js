@@ -21,19 +21,45 @@ GameManager.prototype.restart = function () {
   this.actuator.continueGame(); // Clear the game won/lost message
   this.setup();
   this.timer.reset();
-  this.timer.startCount();
+  // console.log("GameManager# restart by player1");
+  var name1 = new URL(window.location.href).searchParams.get("player1");
+  var name2 = new URL(window.location.href).searchParams.get("player2");
+  var unlock_chris = false;
+  var unlock_billy = false;
+  var url = '';
+  if($(".tile-128").length){
+    unlock_chris = true;
+  }
+  if($(".tile-256").length){
+    unlock_billy = true;
+  }
+  console.log(name1, name2, unlock_chris, unlock_billy);
+  url = "./selectCharacter.html" + "?player1="+name1+"&player2="+name2;
+  if(unlock_chris){
+    url += "&chris=1";
+  }
+  if(unlock_billy){
+    url += "&billy=1";
+  }
+  console.log("url="+url);
+  window.location.replace(url);
+  // this.timer.startCount();
 };   
 
 // Reset grid
 GameManager.prototype.resetGrid = function () {
+  if(this.timer.isTimeEnded){
+    // game already ended
+    return;
+  }
   console.log("GameManager# restart - start");
   if(this.player == "player1"){
     $(".game-container .game-message-player1").addClass("game-pause");
-    $(".game-container .game-message-player1 p").html("You are dead! Wait 15s");
+    $(".game-container .game-message-player1 p").html("You are dead! Wait 7s");
     $(".game-container .game-message-player1 .lower").hide();
   } else {
     $(".game-container .game-message-player2").addClass("game-pause");
-    $(".game-container .game-message-player2 p").html("You are dead! Wait 15s");
+    $(".game-container .game-message-player2 p").html("You are dead! Wait 7s");
     $(".game-container .game-message-player2 .lower").hide();
   }
   
@@ -68,7 +94,7 @@ GameManager.prototype.resetGrid = function () {
     
     self.actuate();
 
-  }, 15000);
+  }, 7000);
  
 };   
 
