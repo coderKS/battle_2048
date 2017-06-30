@@ -1,0 +1,4540 @@
+
+<OpportunitiesViewData>
+  <OpenOpportunityRoles>
+    <OpportunityRole>
+      <Id>a0RD000000GSH8HMAX</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-06-30T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Bank Of America Merrill Lynch (London)</Client>
+      <Salesperson>
+        <Id>005D0000008vpynIAA</Id>
+        <Name>Tasneem Aliewi</Name>
+        <ShortName>T. Aliewi</ShortName>
+        <Email>tasneem.aliewi@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFKCMA5</Id>
+      <Name>Test Analyst - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>DWP - Department for Work and Pensions</Client>
+      <Salesperson>
+        <Id>005D0000001zzKxIAI</Id>
+        <Name>Jennifer Standish</Name>
+        <ShortName>J. Standish</ShortName>
+        <Email>jennifer.standish@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSCDAMA5</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>ARM Ltd</Client>
+      <Salesperson>
+        <Id>005D0000006DHtEIAW</Id>
+        <Name>Tom Elliott</Name>
+        <ShortName>T. Elliott</ShortName>
+        <Email>tom.elliott@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSCDlMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>5</ResourcesRequired>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Id>005D0000004UQXIIA4</Id>
+        <Name>Ben Cawood</Name>
+        <ShortName>B. Cawood</ShortName>
+        <Email>ben.cawood@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEXzMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Societe Generale (Asia) Limited</Client>
+      <Salesperson>
+        <Id>005D0000001zXRqIAM</Id>
+        <Name>Janet Law</Name>
+        <ShortName>J. Law</ShortName>
+        <Email>janet.law@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS05iMAD</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>DWP - Department for Work and Pensions</Client>
+      <Salesperson>
+        <Id>005D0000001zzKxIAI</Id>
+        <Name>Jennifer Standish</Name>
+        <ShortName>J. Standish</ShortName>
+        <Email>jennifer.standish@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS6BqMAL</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>CA Technologies</Client>
+      <Salesperson>
+        <Id>005D0000003yJ2pIAE</Id>
+        <Name>Henry Oppon</Name>
+        <ShortName>H. Oppon</ShortName>
+        <Email>henry.oppon@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSBsFMAX</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS *Asia*</Client>
+      <Salesperson>
+        <Id>005D00000021DE4IAM</Id>
+        <Name>Sophia Lin</Name>
+        <ShortName>S. Lin</ShortName>
+        <Email>sophia.lin@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSCj2MAH</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>Sky Sports</Client>
+      <Salesperson>
+        <Id>005D0000005S4GBIA0</Id>
+        <Name>Richard Handley</Name>
+        <ShortName>R. Handley</ShortName>
+        <Email>richard.handley@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSCjOMAX</Id>
+      <Name>Business Intelligence - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Business Intelligence</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Yorkshire Building Society</Client>
+      <Salesperson>
+        <Id>005D0000004Vv1FIAS</Id>
+        <Name>Chad Rooker</Name>
+        <ShortName>C. Rooker</ShortName>
+        <Email>chad.rooker@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSCjTMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Yorkshire Building Society</Client>
+      <Salesperson>
+        <Id>005D0000004Vv1FIAS</Id>
+        <Name>Chad Rooker</Name>
+        <ShortName>C. Rooker</ShortName>
+        <Email>chad.rooker@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFzCMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>AXA Insurance Designated Activity Company LTD (Ireland)</Client>
+      <Salesperson>
+        <Id>005D0000005VwczIAC</Id>
+        <Name>Padraig Haughney</Name>
+        <ShortName>P. Haughney</ShortName>
+        <Email>padraig.haughney@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHuOMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Gala Coral Group Limited</Client>
+      <Salesperson>
+        <Id>005D0000005fRshIAE</Id>
+        <Name>Paige Taggart</Name>
+        <ShortName>P. Taggart</ShortName>
+        <Email>paige.taggart@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJ8aMAH</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Barclays Group Functions</Client>
+      <Salesperson>
+        <Id>005D00000020uNbIAI</Id>
+        <Name>Rory Flavell</Name>
+        <ShortName>R. Flavell</ShortName>
+        <Email>rory.flavell@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000Ga65ZMAR</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Citibank (Singapore)</Client>
+      <Salesperson>
+        <Id>005D0000006ULHhIAO</Id>
+        <Name>Max Luff</Name>
+        <ShortName>M. Luff</ShortName>
+        <Email>max.luff@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000Ga8cgMAB</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>Ping An Group</Client>
+      <Salesperson>
+        <Id>005D0000005PMmxIAG</Id>
+        <Name>Joyce Lai</Name>
+        <ShortName>J. Lai</ShortName>
+        <Email>joyce.lai@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GaDfQMAV</Id>
+      <Name>Business Intelligence - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Business Intelligence</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Drax Power Limited</Client>
+      <Salesperson>
+        <Id>005D0000001zzKxIAI</Id>
+        <Name>Jennifer Standish</Name>
+        <ShortName>J. Standish</ShortName>
+        <Email>jennifer.standish@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GaJhnMAF</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-03T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>Hapag Lloyd AG</Client>
+      <Salesperson>
+        <Id>005D0000005P6NqIAK</Id>
+        <Name>Kaltrine Emini</Name>
+        <ShortName>K. Emini</ShortName>
+        <Email>kaltrine.emini@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS3fCMAT</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-05T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HSBC Bank Canada</Client>
+      <Salesperson>
+        <Id>005D0000005W78gIAC</Id>
+        <Name>Joshua Fawssett</Name>
+        <ShortName>J. Fawssett</ShortName>
+        <Email>joshua.fawssett@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS1coMAD</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Christie's Auction House</Client>
+      <Salesperson>
+        <Id>005D0000003yJ2pIAE</Id>
+        <Name>Henry Oppon</Name>
+        <ShortName>H. Oppon</ShortName>
+        <Email>henry.oppon@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS4GeMAL</Id>
+      <Name>Developer - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HM Revenue &amp; Customs (HMRC)</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS4GfMAL</Id>
+      <Name>Test Analyst - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HM Revenue &amp; Customs (HMRC)</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS4yiMAD</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>IHS Markit (USA)</Client>
+      <Salesperson>
+        <Id>005D0000003uonSIAQ</Id>
+        <Name>Thomas Monagle</Name>
+        <ShortName>T. Monagle</ShortName>
+        <Email>thomas.monagle@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSC68MAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>McKinsey Investment Office Partners</Client>
+      <Salesperson>
+        <Id>005D0000003x3kKIAQ</Id>
+        <Name>Cody Herr</Name>
+        <ShortName>C. Herr</ShortName>
+        <Email>cody.herr@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS9yxMAD</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Id>005D0000003HPaNIAW</Id>
+        <Name>Kenny Millen</Name>
+        <ShortName>K. Millen</ShortName>
+        <Email>kenny.millen@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDxkMAH</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Clydesdale Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSE5lMAH</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>BUPA UK MU</Client>
+      <Salesperson>
+        <Id>005D0000001xnWwIAI</Id>
+        <Name>Vince Mnich</Name>
+        <ShortName>V. Mnich</ShortName>
+        <Email>vince.mnich@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEKDMA5</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Clydesdale Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEOaMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Worldline IT Services UK Ltd</Client>
+      <Salesperson>
+        <Id>005D0000005VwcfIAC</Id>
+        <Name>Natasha Williams</Name>
+        <ShortName>N. Williams</ShortName>
+        <Email>natasha.williams@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEObMAP</Id>
+      <Name>Developer - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Worldline IT Services UK Ltd</Client>
+      <Salesperson>
+        <Id>005D0000005VwcfIAC</Id>
+        <Name>Natasha Williams</Name>
+        <ShortName>N. Williams</ShortName>
+        <Email>natasha.williams@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSF7uMAH</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Scotiabank</Client>
+      <Salesperson>
+        <Id>005D0000005WKI0IAO</Id>
+        <Name>Anthony Mariani</Name>
+        <ShortName>A. Mariani</ShortName>
+        <Email>anthony.mariani@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFJxMAP</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>TMF Group B.V.</Client>
+      <Salesperson>
+        <Id>005D0000001xnX5IAI</Id>
+        <Name>Kasia Wojciechowska</Name>
+        <ShortName>K. Wojciechowska</ShortName>
+        <Email>kasia.wojciechowska@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIsHMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Scotiabank</Client>
+      <Salesperson>
+        <Id>005D0000005WKI0IAO</Id>
+        <Name>Anthony Mariani</Name>
+        <ShortName>A. Mariani</ShortName>
+        <Email>anthony.mariani@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJSWMA5</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>eBECS Limited</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHp7MAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Options Clearing Corporation</Client>
+      <Salesperson>
+        <Id>005D0000001zY9PIAU</Id>
+        <Name>Rupert Pearce</Name>
+        <ShortName>R. Pearce</ShortName>
+        <Email>rupert.pearce@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHzqMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Cadent Gas</Client>
+      <Salesperson>
+        <Id>005D0000001zzKxIAI</Id>
+        <Name>Jennifer Standish</Name>
+        <ShortName>J. Standish</ShortName>
+        <Email>jennifer.standish@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHwmMAH</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>AXA Personal Lines</Client>
+      <Salesperson>
+        <Id>005D0000004UQXIIA4</Id>
+        <Name>Ben Cawood</Name>
+        <ShortName>B. Cawood</ShortName>
+        <Email>ben.cawood@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIBAMA5</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Royal Berkshire NHS Foundation Trust</Client>
+      <Salesperson>
+        <Id>005D0000005WYMQIA4</Id>
+        <Name>Rosaleen Collins</Name>
+        <ShortName>R. Collins</ShortName>
+        <Email>rosaleen.collins@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSG1xMAH</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Scotiabank</Client>
+      <Salesperson>
+        <Id>005D0000005WKI0IAO</Id>
+        <Name>Anthony Mariani</Name>
+        <ShortName>A. Mariani</ShortName>
+        <Email>anthony.mariani@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHcCMAX</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Id>005D00000020uNbIAI</Id>
+        <Name>Rory Flavell</Name>
+        <ShortName>R. Flavell</ShortName>
+        <Email>rory.flavell@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHjtMAH</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>BNP Paribas UK Limited</Client>
+      <Salesperson>
+        <Id>005D0000001xnXGIAY</Id>
+        <Name>Yves Laffont</Name>
+        <ShortName>Y. Laffont</ShortName>
+        <Email>yves.laffont@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHlHMAX</Id>
+      <Name>Data Analyst - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-10T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>BNP Paribas UK Limited</Client>
+      <Salesperson>
+        <Id>005D0000001xnXGIAY</Id>
+        <Name>Yves Laffont</Name>
+        <ShortName>Y. Laffont</ShortName>
+        <Email>yves.laffont@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSF66MAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-14T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSBuUMAX</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-14T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS2KbMAL</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-14T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GA0FQMA1</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Standard Chartered Bank</Client>
+      <Salesperson>
+        <Id>005D0000002XIhGIAW</Id>
+        <Name>Lucy Ives</Name>
+        <ShortName>L. Ives</ShortName>
+        <Email>lucy.ives@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GATy4MAH</Id>
+      <Name>Business Intelligence - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Business Intelligence</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Virgin Money Plc</Client>
+      <Salesperson>
+        <Id>005D0000005S4GBIA0</Id>
+        <Name>Richard Handley</Name>
+        <ShortName>R. Handley</ShortName>
+        <Email>richard.handley@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSADeMAP</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>TD Wealth Management</Client>
+      <Salesperson>
+        <Id>005D0000005W78gIAC</Id>
+        <Name>Joshua Fawssett</Name>
+        <ShortName>J. Fawssett</ShortName>
+        <Email>joshua.fawssett@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSAFuMAP</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>TD Wealth Management</Client>
+      <Salesperson>
+        <Id>005D0000005W78gIAC</Id>
+        <Name>Joshua Fawssett</Name>
+        <ShortName>J. Fawssett</ShortName>
+        <Email>joshua.fawssett@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSC4CMAX</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>4</ResourcesRequired>
+      <Client>Smith &amp; Williamson Corporate Services Limited</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFwfMAH</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Id>005D0000001xnXBIAY</Id>
+        <Name>Dan Bird</Name>
+        <ShortName>D. Bird</ShortName>
+        <Email>dan.bird@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHH8MAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Id>005D0000006ULHhIAO</Id>
+        <Name>Max Luff</Name>
+        <ShortName>M. Luff</ShortName>
+        <Email>max.luff@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHQTMA5</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>The Pensions Regulator</Client>
+      <Salesperson>
+        <Id>005D0000005VwczIAC</Id>
+        <Name>Padraig Haughney</Name>
+        <ShortName>P. Haughney</ShortName>
+        <Email>padraig.haughney@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEpFMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Barclays (US)</Client>
+      <Salesperson>
+        <Id>005D0000005fQxHIAU</Id>
+        <Name>Matthew Klareich</Name>
+        <ShortName>M. Klareich</ShortName>
+        <Email>matthew.klareich@fdmgroup.com</Email>
+        <Office>US Academy Recruiter</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFO4MAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Id>005D0000005RkWEIA0</Id>
+        <Name>Sean Batts</Name>
+        <ShortName>S. Batts</ShortName>
+        <Email>sean.batts@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFPHMA5</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Id>005D0000005RkWEIA0</Id>
+        <Name>Sean Batts</Name>
+        <ShortName>S. Batts</ShortName>
+        <Email>sean.batts@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHijMAH</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Id>005D0000001xnXBIAY</Id>
+        <Name>Dan Bird</Name>
+        <ShortName>D. Bird</ShortName>
+        <Email>dan.bird@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHioMAH</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Id>005D0000001xnXBIAY</Id>
+        <Name>Dan Bird</Name>
+        <ShortName>D. Bird</ShortName>
+        <Email>dan.bird@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHiyMAH</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Id>005D0000001xnX5IAI</Id>
+        <Name>Kasia Wojciechowska</Name>
+        <ShortName>K. Wojciechowska</ShortName>
+        <Email>kasia.wojciechowska@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHj3MAH</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Id>005D0000001xnX5IAI</Id>
+        <Name>Kasia Wojciechowska</Name>
+        <ShortName>K. Wojciechowska</ShortName>
+        <Email>kasia.wojciechowska@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHjIMAX</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>RBC Capital Markets Europe</Client>
+      <Salesperson>
+        <Id>005D0000001xnX5IAI</Id>
+        <Name>Kasia Wojciechowska</Name>
+        <ShortName>K. Wojciechowska</ShortName>
+        <Email>kasia.wojciechowska@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHjXMAX</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>RBC Capital Markets Europe</Client>
+      <Salesperson>
+        <Id>005D0000001xnX5IAI</Id>
+        <Name>Kasia Wojciechowska</Name>
+        <ShortName>K. Wojciechowska</ShortName>
+        <Email>kasia.wojciechowska@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHYeMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Id>005D0000006ULHhIAO</Id>
+        <Name>Max Luff</Name>
+        <ShortName>M. Luff</ShortName>
+        <Email>max.luff@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHvAMAX</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Id>005D0000001xnX5IAI</Id>
+        <Name>Kasia Wojciechowska</Name>
+        <ShortName>K. Wojciechowska</ShortName>
+        <Email>kasia.wojciechowska@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIujMAH</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>BNP France</Client>
+      <Salesperson>
+        <Id>005D0000001xnXGIAY</Id>
+        <Name>Yves Laffont</Name>
+        <ShortName>Y. Laffont</ShortName>
+        <Email>yves.laffont@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIsTMAX</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Scotiabank</Client>
+      <Salesperson>
+        <Id>005D0000005WKI0IAO</Id>
+        <Name>Anthony Mariani</Name>
+        <ShortName>A. Mariani</ShortName>
+        <Email>anthony.mariani@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIFyMAP</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Wincor Nixdorf (UK)</Client>
+      <Salesperson>
+        <Id>005D0000001xnWtIAI</Id>
+        <Name>Paul Ames</Name>
+        <ShortName>P. Ames</ShortName>
+        <Email>paul.ames@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJAaMAP</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>BNP France</Client>
+      <Salesperson>
+        <Id>005D0000001xnXGIAY</Id>
+        <Name>Yves Laffont</Name>
+        <ShortName>Y. Laffont</ShortName>
+        <Email>yves.laffont@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJAuMAP</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>BNP France</Client>
+      <Salesperson>
+        <Id>005D0000001xnXGIAY</Id>
+        <Name>Yves Laffont</Name>
+        <ShortName>Y. Laffont</ShortName>
+        <Email>yves.laffont@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJEIMA5</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Moody's Corporation</Client>
+      <Salesperson>
+        <Id>005D0000001zY9PIAU</Id>
+        <Name>Rupert Pearce</Name>
+        <ShortName>R. Pearce</ShortName>
+        <Email>rupert.pearce@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJOJMA5</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Clydesdale Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSK4nMAH</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Old Mutual Wealth Limited</Client>
+      <Salesperson>
+        <Id>005D0000001xnWwIAI</Id>
+        <Name>Vince Mnich</Name>
+        <ShortName>V. Mnich</ShortName>
+        <Email>vince.mnich@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJPIMA5</Id>
+      <Name>Business Intelligence - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>Business Intelligence</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HDI-Gerling Industrial Insurance Company</Client>
+      <Salesperson>
+        <Id>005D0000003yJ2pIAE</Id>
+        <Name>Henry Oppon</Name>
+        <ShortName>H. Oppon</ShortName>
+        <Email>henry.oppon@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GaGtKMAV</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-17T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Clydesdale Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEw0MAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-21T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFSRMA5</Id>
+      <Name>Developer - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Sparta Systems Inc</Client>
+      <Salesperson>
+        <Id>005D0000003uonSIAQ</Id>
+        <Name>Thomas Monagle</Name>
+        <ShortName>T. Monagle</ShortName>
+        <Email>thomas.monagle@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHYPMA5</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>FIL Investment Management (Hong Kong) Limited</Client>
+      <Salesperson>
+        <Id>005D0000003GSBcIAO</Id>
+        <Name>Sherry Yu</Name>
+        <ShortName>S. Yu</ShortName>
+        <Email>sherry.yu@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFydMAH</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000004UQXIIA4</Id>
+        <Name>Ben Cawood</Name>
+        <ShortName>B. Cawood</ShortName>
+        <Email>ben.cawood@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSK6dMAH</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Bank of America Consumer Technology</Client>
+      <Salesperson>
+        <Id>005D0000002nEQrIAM</Id>
+        <Name>Ashley Lofters</Name>
+        <ShortName>A. Lofters</ShortName>
+        <Email>ashley.lofters@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJwaMAH</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Cancer Research UK</Client>
+      <Salesperson>
+        <Id>005D0000005fWXKIA2</Id>
+        <Name>Rosha Houston</Name>
+        <ShortName>R. Houston</ShortName>
+        <Email>rosha.houston@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIHWMA5</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Scotiabank</Client>
+      <Salesperson>
+        <Id>005D0000005WKI0IAO</Id>
+        <Name>Anthony Mariani</Name>
+        <ShortName>A. Mariani</ShortName>
+        <Email>anthony.mariani@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJTvMAP</Id>
+      <Name>Test Analyst - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Pentaho</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJeMMAX</Id>
+      <Name>PMO - Project Manager - Freelancer</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Royal Mail</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHmbMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Id>005D000000651JJIAY</Id>
+        <Name>Doris Culajay</Name>
+        <ShortName>D. Culajay</ShortName>
+        <Email>doris.culajay@fdmgroup.com</Email>
+        <Office>US Academy Recruiter</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHoTMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>TD Securities</Client>
+      <Salesperson>
+        <Id>005D0000003x3kKIAQ</Id>
+        <Name>Cody Herr</Name>
+        <ShortName>C. Herr</ShortName>
+        <Email>cody.herr@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIDUMA5</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Standard Chartered Bank</Client>
+      <Salesperson>
+        <Id>005D0000002XIhGIAW</Id>
+        <Name>Lucy Ives</Name>
+        <ShortName>L. Ives</ShortName>
+        <Email>lucy.ives@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHgcMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Barclays (US)</Client>
+      <Salesperson>
+        <Id>005D0000005fQxHIAU</Id>
+        <Name>Matthew Klareich</Name>
+        <ShortName>M. Klareich</ShortName>
+        <Email>matthew.klareich@fdmgroup.com</Email>
+        <Office>US Academy Recruiter</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHeqMAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>General Dynamics UK Ltd</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHjyMAH</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-24T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Royal Mail</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIFoMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Id>005D0000008vaz7IAA</Id>
+        <Name>Steve Fielding</Name>
+        <ShortName>S. Fielding</ShortName>
+        <Email>steve.fielding@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHxpMAH</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>United Business Media Plc</Client>
+      <Salesperson>
+        <Id>005D0000003vBXjIAM</Id>
+        <Name>Yasmin Bellairs-Taylor</Name>
+        <ShortName>Y. Bellairs-Taylor</ShortName>
+        <Email>yasmin.bellairs-taylor@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHqMMAX</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Manulife (Singapore)</Client>
+      <Salesperson>
+        <Id>005D0000006ULHhIAO</Id>
+        <Name>Max Luff</Name>
+        <ShortName>M. Luff</ShortName>
+        <Email>max.luff@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJ1tMAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>BMO</Client>
+      <Salesperson>
+        <Id>005D0000004SOx5IAG</Id>
+        <Name>Kat Turchik</Name>
+        <ShortName>K. Turchik</ShortName>
+        <Email>kat.turchik@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSItrMAH</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>TD Wealth Management</Client>
+      <Salesperson>
+        <Id>005D0000005W78gIAC</Id>
+        <Name>Joshua Fawssett</Name>
+        <ShortName>J. Fawssett</ShortName>
+        <Email>joshua.fawssett@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSK2MMAX</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Id>005D0000002nEQrIAM</Id>
+        <Name>Ashley Lofters</Name>
+        <ShortName>A. Lofters</ShortName>
+        <Email>ashley.lofters@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSK2RMAX</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Id>005D0000002nEQrIAM</Id>
+        <Name>Ashley Lofters</Name>
+        <ShortName>A. Lofters</ShortName>
+        <Email>ashley.lofters@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJloMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000005fWXKIA2</Id>
+        <Name>Rosha Houston</Name>
+        <ShortName>R. Houston</ShortName>
+        <Email>rosha.houston@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJoZMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Macquarie Holdings (U.S.A) Inc.</Client>
+      <Salesperson>
+        <Id>005D0000003x3kKIAQ</Id>
+        <Name>Cody Herr</Name>
+        <ShortName>C. Herr</ShortName>
+        <Email>cody.herr@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJvfMAH</Id>
+      <Name>Test Analyst  - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Testing</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Companies House</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJvkMAH</Id>
+      <Name>Developer - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Companies House</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJvpMAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Companies House</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSK6iMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Bank of America Consumer Technology</Client>
+      <Salesperson>
+        <Id>005D0000002nEQrIAM</Id>
+        <Name>Ashley Lofters</Name>
+        <ShortName>A. Lofters</ShortName>
+        <Email>ashley.lofters@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSK6sMAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Bank of America Consumer Technology</Client>
+      <Salesperson>
+        <Id>005D0000002nEQrIAM</Id>
+        <Name>Ashley Lofters</Name>
+        <ShortName>A. Lofters</ShortName>
+        <Email>ashley.lofters@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000Ga9RbMAJ</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSD97MAH</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Lloyds Banking Group</Client>
+      <Salesperson>
+        <Id>005D0000005PMlkIAG</Id>
+        <Name>Greg Morris</Name>
+        <ShortName>G. Morris</ShortName>
+        <Email>greg.morris@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS2JMMA1</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Department for Education</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS4DOMA1</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSBxpMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Morgan Stanley Services Canada Corp.</Client>
+      <Salesperson>
+        <Id>005D0000003uonSIAQ</Id>
+        <Name>Thomas Monagle</Name>
+        <ShortName>T. Monagle</ShortName>
+        <Email>thomas.monagle@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS2KgMAL</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS2RrMAL</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Morgan Stanley Wealth Management</Client>
+      <Salesperson>
+        <Id>005D0000003uonSIAQ</Id>
+        <Name>Thomas Monagle</Name>
+        <ShortName>T. Monagle</ShortName>
+        <Email>thomas.monagle@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS2SBMA1</Id>
+      <Name>Business Intelligence - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-07-31T00:00:00</EstimatedStartDate>
+      <Division>Business Intelligence</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000003xnHdIAI</Id>
+        <Name>Frazer Barrell</Name>
+        <ShortName>F. Barrell</ShortName>
+        <Email>frazer.barrell@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDPcMAP</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-01T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>MUFG Union Bank, N.A.</Client>
+      <Salesperson>
+        <Id>005D0000001zY9PIAU</Id>
+        <Name>Rupert Pearce</Name>
+        <ShortName>R. Pearce</ShortName>
+        <Email>rupert.pearce@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDS4MAP</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-01T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Moody's Corporation</Client>
+      <Salesperson>
+        <Id>005D0000001zY9PIAU</Id>
+        <Name>Rupert Pearce</Name>
+        <ShortName>R. Pearce</ShortName>
+        <Email>rupert.pearce@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDU9MAP</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-01T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Moody's Corporation</Client>
+      <Salesperson>
+        <Id>005D0000001zY9PIAU</Id>
+        <Name>Rupert Pearce</Name>
+        <ShortName>R. Pearce</ShortName>
+        <Email>rupert.pearce@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEbIMAX</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-01T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>LSG Lufthansa Service Holding AG</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHgIMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-01T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>Datavard AG</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHgNMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-01T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>4</ResourcesRequired>
+      <Client>metafinanz Informationssysteme GmbH</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJSqMAP</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-08-02T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>5</ResourcesRequired>
+      <Client>RBS Technology Services</Client>
+      <Salesperson>
+        <Id>005D0000008voVzIAI</Id>
+        <Name>Kara Dawson</Name>
+        <ShortName>K. Dawson</ShortName>
+        <Email>kara.dawson@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSIrJMAX</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-03T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>RBS Technology Services</Client>
+      <Salesperson>
+        <Id>005D0000008voVzIAI</Id>
+        <Name>Kara Dawson</Name>
+        <ShortName>K. Dawson</ShortName>
+        <Email>kara.dawson@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS3geMAD</Id>
+      <Name>Application Support - Ex-Forces</Name>
+      <EstimatedStartDate>2017-08-03T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>RBS Technology Services</Client>
+      <Salesperson>
+        <Id>005D0000008voVzIAI</Id>
+        <Name>Kara Dawson</Name>
+        <ShortName>K. Dawson</ShortName>
+        <Email>kara.dawson@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS22SMAT</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000004Vv0vIAC</Id>
+        <Name>Samantha Mellis</Name>
+        <ShortName>S. Mellis</ShortName>
+        <Email>samantha.mellis@fdmgroup.com</Email>
+        <Office>UK Academy Recruiter</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSCPRMA5</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000002llYwIAI</Id>
+        <Name>Greg Childs</Name>
+        <ShortName>G. Childs</ShortName>
+        <Email>greg.childs@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFxEMAX</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Id>005D0000003HPaNIAW</Id>
+        <Name>Kenny Millen</Name>
+        <ShortName>K. Millen</ShortName>
+        <Email>kenny.millen@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJeWMAX</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Royal Mail</Client>
+      <Salesperson>
+        <Id>005D00000035CH7IAM</Id>
+        <Name>Billy Mclaren</Name>
+        <ShortName>B. Mclaren</ShortName>
+        <Email>billy.mclaren@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHtkMAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>metafinanz Informationssysteme GmbH</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHvUMAX</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>CitiGroup UK</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHp2MAH</Id>
+      <Name>Financial Data Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>HSBC Investment Bank (USA)</Client>
+      <Salesperson>
+        <Id>005D0000003x3kKIAQ</Id>
+        <Name>Cody Herr</Name>
+        <ShortName>C. Herr</ShortName>
+        <Email>cody.herr@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSI00MAH</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Cadent Gas</Client>
+      <Salesperson>
+        <Id>005D0000001zzKxIAI</Id>
+        <Name>Jennifer Standish</Name>
+        <ShortName>J. Standish</ShortName>
+        <Email>jennifer.standish@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSI05MAH</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-07T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Cadent Gas</Client>
+      <Salesperson>
+        <Id>005D0000001zzKxIAI</Id>
+        <Name>Jennifer Standish</Name>
+        <ShortName>J. Standish</ShortName>
+        <Email>jennifer.standish@fdmgroup.com</Email>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSE6fMAH</Id>
+      <Name>PMO - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-08-09T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Sainsburys Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000008voVzIAI</Id>
+        <Name>Kara Dawson</Name>
+        <ShortName>K. Dawson</ShortName>
+        <Email>kara.dawson@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDOTMA5</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-08-14T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDOYMA5</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-08-14T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHlMMAX</Id>
+      <Name>Risk, Regulation and Compliance - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-15T00:00:00</EstimatedStartDate>
+      <Division>Data Services</Division>
+      <ResourcesRequired>3</ResourcesRequired>
+      <Client>BNP Paribas UK Limited</Client>
+      <Salesperson>
+        <Id>005D0000001xnXGIAY</Id>
+        <Name>Yves Laffont</Name>
+        <ShortName>Y. Laffont</ShortName>
+        <Email>yves.laffont@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJmNMAX</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-21T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Id>005D0000008vaz7IAA</Id>
+        <Name>Steve Fielding</Name>
+        <ShortName>S. Fielding</ShortName>
+        <Email>steve.fielding@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSEOtMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-21T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>Clydesdale Bank Plc</Client>
+      <Salesperson>
+        <Id>005D0000005Rvu2IAC</Id>
+        <Name>Andrew MacArthur</Name>
+        <ShortName>A. MacArthur</ShortName>
+        <Email>andrew.macarthur@fdmgroup.com</Email>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSC3IMAX</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-21T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>UBS (USA)</Client>
+      <Salesperson>
+        <Id>005D0000003uonSIAQ</Id>
+        <Name>Thomas Monagle</Name>
+        <ShortName>T. Monagle</ShortName>
+        <Email>thomas.monagle@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSD6MMAX</Id>
+      <Name>PMO - Ex-Forces</Name>
+      <EstimatedStartDate>2017-08-28T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSD6lMAH</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-28T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS5oFMAT</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-28T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GS5oKMAT</Id>
+      <Name>Business Analyst  - Yr2(+) Mountie</Name>
+      <EstimatedStartDate>2017-08-28T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>4</ResourcesRequired>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Id>005D0000002n2xdIAA</Id>
+        <Name>Oliver Hester</Name>
+        <ShortName>O. Hester</ShortName>
+        <Email>oliver.hester@fdmgroup.com</Email>
+        <Office>London</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSI5lMAH</Id>
+      <Name>PMO - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-28T00:00:00</EstimatedStartDate>
+      <Division>PMO</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Morgan Stanley (USA)</Client>
+      <Salesperson>
+        <Id>005D0000003uonSIAQ</Id>
+        <Name>Thomas Monagle</Name>
+        <ShortName>T. Monagle</ShortName>
+        <Email>thomas.monagle@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSHpCMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-08-28T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>MUFG Union Bank, N.A.</Client>
+      <Salesperson>
+        <Id>005D0000001zY9PIAU</Id>
+        <Name>Rupert Pearce</Name>
+        <ShortName>R. Pearce</ShortName>
+        <Email>rupert.pearce@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJP8MAP</Id>
+      <Name>Business Intelligence - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-04T00:00:00</EstimatedStartDate>
+      <Division>Business Intelligence</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>metafinanz Informationssysteme GmbH</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GAcezMAD</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-11T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>8</ResourcesRequired>
+      <Client>Capco (The Capital Markets Company GmbH)</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSFNpMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-11T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Deutsche Bank (USA)</Client>
+      <Salesperson>
+        <Id>005D0000008vaz7IAA</Id>
+        <Name>Steve Fielding</Name>
+        <ShortName>S. Fielding</ShortName>
+        <Email>steve.fielding@fdmgroup.com</Email>
+        <Office>US</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GAcf4MAD</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-18T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>8</ResourcesRequired>
+      <Client>Capco (The Capital Markets Company GmbH)</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJ8BMAX</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-18T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>2</ResourcesRequired>
+      <Client>Daimler IT Retail GmbH</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSJZiMAP</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-25T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>Ernst &amp; Young Advisory Pte. Ltd</Client>
+      <Salesperson>
+        <Id>005D00000021DE4IAM</Id>
+        <Name>Sophia Lin</Name>
+        <ShortName>S. Lin</ShortName>
+        <Email>sophia.lin@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000Ga5OyMAJ</Id>
+      <Name>Developer - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-09-25T00:00:00</EstimatedStartDate>
+      <Division>Consulting</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>DBS Bank Ltd (Singapore)</Client>
+      <Salesperson>
+        <Id>005D00000021DE4IAM</Id>
+        <Name>Sophia Lin</Name>
+        <ShortName>S. Lin</ShortName>
+        <Email>sophia.lin@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GSDN1MAP</Id>
+      <Name>Business Analyst - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-10-02T00:00:00</EstimatedStartDate>
+      <Division>Business Analysis</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>KPMG IT Service GmbH</Client>
+      <Salesperson>
+        <Id>005D00000034EV7IAM</Id>
+        <Name>Rene Seipelt</Name>
+        <ShortName>R. Seipelt</ShortName>
+        <Email>rene.seipelt@fdmgroup.com</Email>
+        <Office>Germany</Office>
+      </Salesperson>
+    </OpportunityRole>
+    <OpportunityRole>
+      <Id>a0RD000000GaBjFMAV</Id>
+      <Name>Application Support - Yr1 Mountie</Name>
+      <EstimatedStartDate>2017-10-23T00:00:00</EstimatedStartDate>
+      <Division>Support</Division>
+      <ResourcesRequired>1</ResourcesRequired>
+      <Client>DBS Bank Ltd (Singapore)</Client>
+      <Salesperson>
+        <Id>005D00000021DE4IAM</Id>
+        <Name>Sophia Lin</Name>
+        <ShortName>S. Lin</ShortName>
+        <Email>sophia.lin@fdmgroup.com</Email>
+        <Office>HK</Office>
+      </Salesperson>
+    </OpportunityRole>
+  </OpenOpportunityRoles>
+  <RecentPlacements>
+    <Placement>
+      <Id>a0yD000000aC8s9IAC</Id>
+      <Resource>Randale Watson</Resource>
+      <ResourceShortName>R. Watson</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>HCA - Information Technology &amp; Services Inc</Client>
+      <Salesperson>
+        <Name>Thomas Monagle</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9CiIAK</Id>
+      <Resource>Ian Fincham</Resource>
+      <ResourceShortName>I. Fincham</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Standard Life Employee Services Limited</Client>
+      <Salesperson>
+        <Name>Daniel Scully</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9UhIAK</Id>
+      <Resource>Eleanor Argent</Resource>
+      <ResourceShortName>E. Argent</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9UrIAK</Id>
+      <Resource>Sidra Ali</Resource>
+      <ResourceShortName>S. Ali</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9azIAC</Id>
+      <Resource>Mikell Cook</Resource>
+      <ResourceShortName>M. Cook</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBEbIAO</Id>
+      <Resource>Rishan Skantharajah</Resource>
+      <ResourceShortName>R. Skantharajah</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Greg Childs</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBEgIAO</Id>
+      <Resource>Hisham Sadek</Resource>
+      <ResourceShortName>H. Sadek</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Greg Childs</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBdvIAG</Id>
+      <Resource>Ross McCorkindale</Resource>
+      <ResourceShortName>R. McCorkindale</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>HM Land Registry</Client>
+      <Salesperson>
+        <Name>Oliver Hester</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBf3IAG</Id>
+      <Resource>Misbah Ali</Resource>
+      <ResourceShortName>M. Ali</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>DWP - Department for Work and Pensions</Client>
+      <Salesperson>
+        <Name>Nicola Harrison</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBgzIAG</Id>
+      <Resource>Oliver White</Resource>
+      <ResourceShortName>O. White</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Barclays Bank (UK) (Retail)</Client>
+      <Salesperson>
+        <Name>Rory Flavell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBuwIAG</Id>
+      <Resource>Hannah McDonald</Resource>
+      <ResourceShortName>H. McDonald</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>Clydesdale Bank Plc</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBxHIAW</Id>
+      <Resource>Davinder Mankoo</Resource>
+      <ResourceShortName>D. Mankoo</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Name>Rory Flavell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC6xIAG</Id>
+      <Resource>Jagdeep Sangha</Resource>
+      <ResourceShortName>J. Sangha</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Name>Ben Cawood</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCH7IAO</Id>
+      <Resource>Robert Brooks</Resource>
+      <ResourceShortName>R. Brooks</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCHHIA4</Id>
+      <Resource>Nicholas Pawley</Resource>
+      <ResourceShortName>N. Pawley</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCHMIA4</Id>
+      <Resource>Nathaniel Gregory</Resource>
+      <ResourceShortName>N. Gregory</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCHWIA4</Id>
+      <Resource>Abigail Jones</Resource>
+      <ResourceShortName>A. Jones</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCHgIAO</Id>
+      <Resource>Ben O'Connor</Resource>
+      <ResourceShortName>B. O'Connor</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCHlIAO</Id>
+      <Resource>Jake De-Vine</Resource>
+      <ResourceShortName>J. De-Vine</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCHvIAO</Id>
+      <Resource>Bryn Clegg</Resource>
+      <ResourceShortName>B. Clegg</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJ3IAO</Id>
+      <Resource>Shahed Choudhury</Resource>
+      <ResourceShortName>S. Choudhury</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Barclays Corporate (UK)</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJDIA4</Id>
+      <Resource>Nia Reuben Velinor-Fraser</Resource>
+      <ResourceShortName>N. Velinor-Fraser</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Name>Ben Cawood</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJIIA4</Id>
+      <Resource>Jonathan Piers Callow</Resource>
+      <ResourceShortName>J. Piers Callow</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Name>Ben Cawood</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC7CIAW</Id>
+      <Resource>Hong Nguyen</Resource>
+      <ResourceShortName>H. Nguyen</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sparta Systems Inc</Client>
+      <Salesperson>
+        <Name>Thomas Monagle</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJcIAO</Id>
+      <Resource>Maxine Antoniou</Resource>
+      <ResourceShortName>M. Antoniou</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Standard Life Employee Services Limited</Client>
+      <Salesperson>
+        <Name>Daniel Scully</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJrIAO</Id>
+      <Resource>Steve Winter</Resource>
+      <ResourceShortName>S. Winter</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Tasneem Aliewi</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCNKIA4</Id>
+      <Resource>Matthew Murphy</Resource>
+      <ResourceShortName>M. Murphy</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>Barclays Corporate (UK)</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCStIAO</Id>
+      <Resource>Aaquib Islam</Resource>
+      <ResourceShortName>A. Islam</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BP International Ltd</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCSyIAO</Id>
+      <Resource>Theressa Baby Jose</Resource>
+      <ResourceShortName>T. Baby Jose</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BP International Ltd</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCTDIA4</Id>
+      <Resource>Maya Karaabova</Resource>
+      <ResourceShortName>M. Karaabova</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BP International Ltd</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCTIIA4</Id>
+      <Resource>Hiran Kerai</Resource>
+      <ResourceShortName>H. Kerai</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BP International Ltd</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCODIA4</Id>
+      <Resource>Abdirahim Mohamed</Resource>
+      <ResourceShortName>A. Mohamed</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>TMF Group B.V.</Client>
+      <Salesperson>
+        <Name>Kasia Wojciechowska</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCOIIA4</Id>
+      <Resource>Sally Tse</Resource>
+      <ResourceShortName>S. Tse</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>TMF Group B.V.</Client>
+      <Salesperson>
+        <Name>Kasia Wojciechowska</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCVdIAO</Id>
+      <Resource>Sheila Marriott</Resource>
+      <ResourceShortName>S. Marriott</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Name>Oliver Hester</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCWRIA4</Id>
+      <Resource>Maria Razmanova</Resource>
+      <ResourceShortName>M. Razmanova</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>BNP France</Client>
+      <Salesperson>
+        <Name>Yves Laffont</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCfJIAW</Id>
+      <Resource>Toto Yiu Man To</Resource>
+      <ResourceShortName>T. Yiu Man To</ResourceShortName>
+      <StartDate>2017-06-26T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Manulife Financial Asia Limited  (Hong Kong)</Client>
+      <Salesperson>
+        <Name>Janet Law</Name>
+        <Office>Hong Kong</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCNFIA4</Id>
+      <Resource>Sahil Shukla</Resource>
+      <ResourceShortName>S. Shukla</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Tasneem Aliewi</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCZkIAO</Id>
+      <Resource>Amer Gill</Resource>
+      <ResourceShortName>A. Gill</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BUPA UK MU</Client>
+      <Salesperson>
+        <Name>Vince Mnich</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCOhIAO</Id>
+      <Resource>Neha Agarwal</Resource>
+      <ResourceShortName>N. Agarwal</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Tasneem Aliewi</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCOmIAO</Id>
+      <Resource>Sarah Merriman</Resource>
+      <ResourceShortName>S. Merriman</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Tasneem Aliewi</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCM7IAO</Id>
+      <Resource>Adelaide Di Maio Poole</Resource>
+      <ResourceShortName>A. Di Maio Poole</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Tasneem Aliewi</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCMMIA4</Id>
+      <Resource>Uchenna Uwechue</Resource>
+      <ResourceShortName>U. Uwechue</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Tasneem Aliewi</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBZUIA4</Id>
+      <Resource>Luke Ellis</Resource>
+      <ResourceShortName>L. Ellis</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Amlin Corporate Services</Client>
+      <Salesperson>
+        <Name>Vince Mnich</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAnVIAW</Id>
+      <Resource>Jacob Chen</Resource>
+      <ResourceShortName>J. Chen</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>CIBC World Markets</Client>
+      <Salesperson>
+        <Name>Anthony Mariani</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCqvIAG</Id>
+      <Resource>Geneviieve Sy Ying Wong</Resource>
+      <ResourceShortName>G. Wong</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Name>Max Luff</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCTwIAO</Id>
+      <Resource>Anton Murakhovski</Resource>
+      <ResourceShortName>A. Murakhovski</ResourceShortName>
+      <StartDate>2017-06-27T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RHB Bank Berhad (Singapore)</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCm5IAG</Id>
+      <Resource>Dwayne Osei Kuffour</Resource>
+      <ResourceShortName>D. Osei Kuffour</ResourceShortName>
+      <StartDate>2017-06-28T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCmAIAW</Id>
+      <Resource>Varun Pathak</Resource>
+      <ResourceShortName>V. Pathak</ResourceShortName>
+      <StartDate>2017-06-28T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBEvIAO</Id>
+      <Resource>Gabriel Otuagomah</Resource>
+      <ResourceShortName>G. Otuagomah</ResourceShortName>
+      <StartDate>2017-06-28T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>Alexander Mann Solutions Limited</Client>
+      <Salesperson>
+        <Name>Yves Laffont</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCc0IAG</Id>
+      <Resource>Shivam Rhode</Resource>
+      <ResourceShortName>S. Rhode</ResourceShortName>
+      <StartDate>2017-06-28T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>HSBC Bank Canada</Client>
+      <Salesperson>
+        <Name>Joshua Fawssett</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCdmIAG</Id>
+      <Resource>Chioma Odunlami</Resource>
+      <ResourceShortName>C. Odunlami</ResourceShortName>
+      <StartDate>2017-06-29T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Name>Oliver Hester</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJwIAO</Id>
+      <Resource>Toni Ka Ho Chan</Resource>
+      <ResourceShortName>T. Chan</ResourceShortName>
+      <StartDate>2017-07-01T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>HSBC Investment Bank Plc (HK)</Client>
+      <Salesperson>
+        <Name>Sherry Yu</Name>
+        <Office>Hong Kong</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCM2IAO</Id>
+      <Resource>Paulius Butvilauskas</Resource>
+      <ResourceShortName>P. Butvilauskas</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>BUPA UK MU</Client>
+      <Salesperson>
+        <Name>Vince Mnich</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJNIA4</Id>
+      <Resource>Mabel Grace Dangan Kapangyarihan</Resource>
+      <ResourceShortName>M. Dangan Kapangyarihan</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>Barclays Corporate (UK)</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCP1IAO</Id>
+      <Resource>Tabea Mandt</Resource>
+      <ResourceShortName>T. Mandt</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>Hapag Lloyd AG</Client>
+      <Salesperson>
+        <Name>Kaltrine Emini</Name>
+        <Office>Germany</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCdrIAG</Id>
+      <Resource>Aman Mahmood</Resource>
+      <ResourceShortName>A. Mahmood</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>Deutsche Bank AG London</Client>
+      <Salesperson>
+        <Name>Greg Childs</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCglIAG</Id>
+      <Resource>Suleman Mehmood</Resource>
+      <ResourceShortName>S. Mehmood</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>DWP - Department for Work and Pensions</Client>
+      <Salesperson>
+        <Name>Nicola Harrison</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCdSIAW</Id>
+      <Resource>Courtney Treco</Resource>
+      <ResourceShortName>C. Treco</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Barclays Group Risk</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCWlIAO</Id>
+      <Resource>Marcus Chi Ming Au</Resource>
+      <ResourceShortName>M. Au</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>HSBC Investment Bank Plc (HK)</Client>
+      <Salesperson>
+        <Name>Sherry Yu</Name>
+        <Office>Hong Kong</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBtFIAW</Id>
+      <Resource>Gordon Ziyi Wang</Resource>
+      <ResourceShortName>G. Ziyi Wang</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Name>Max Luff</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBR1IAO</Id>
+      <Resource>Fabian Löffler</Resource>
+      <ResourceShortName>F. Löffler</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>metafinanz Informationssysteme GmbH</Client>
+      <Salesperson>
+        <Name>Rene Seipelt</Name>
+        <Office>Germany</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBSdIAO</Id>
+      <Resource>Qasim Haider</Resource>
+      <ResourceShortName>Q. Haider</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBvLIAW</Id>
+      <Resource>Natalia Walder</Resource>
+      <ResourceShortName>N. Walder</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Erste Group IT International GmbH</Client>
+      <Salesperson>
+        <Name>Robert Krakau</Name>
+        <Office>Germany</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC6TIAW</Id>
+      <Resource>Samuel McCormack</Resource>
+      <ResourceShortName>S. McCormack</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Standard Chartered Bank</Client>
+      <Salesperson>
+        <Name>Lucy Ives</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC6EIAW</Id>
+      <Resource>Marianna Venturella</Resource>
+      <ResourceShortName>M. Venturella</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>Trust IV Limited</Client>
+      <Salesperson>
+        <Name>Ben Cawood</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCChUIAW</Id>
+      <Resource>Gregory Blackburn</Resource>
+      <ResourceShortName>G. Blackburn</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Greg Childs</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCheIAG</Id>
+      <Resource>Harry Goddard</Resource>
+      <ResourceShortName>H. Goddard</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCChjIAG</Id>
+      <Resource>Ivan Ivanov</Resource>
+      <ResourceShortName>I. Ivanov</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCChoIAG</Id>
+      <Resource>Owen Burgess</Resource>
+      <ResourceShortName>O. Burgess</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCChtIAG</Id>
+      <Resource>Owen Burgess</Resource>
+      <ResourceShortName>O. Burgess</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCChyIAG</Id>
+      <Resource>Nikolaos Mountzouris</Resource>
+      <ResourceShortName>N. Mountzouris</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCi8IAG</Id>
+      <Resource>Wayne Edward Loftus</Resource>
+      <ResourceShortName>W. Loftus</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCiIIAW</Id>
+      <Resource>James Griffin</Resource>
+      <ResourceShortName>J. Griffin</ResourceShortName>
+      <StartDate>2017-07-03T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6RQ4IAM</Id>
+      <Resource>Yousef El Hiraki</Resource>
+      <ResourceShortName>Y. El Hiraki</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>TD Securities</Client>
+      <Salesperson>
+        <Name>William Kearns</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC19IAG</Id>
+      <Resource>Shveta Jhamb</Resource>
+      <ResourceShortName>S. Jhamb</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Intact Financial Corporation</Client>
+      <Salesperson>
+        <Name>Kat Turchik</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC6iIAG</Id>
+      <Resource>Mohammad Alam</Resource>
+      <ResourceShortName>M. Alam</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBhJIAW</Id>
+      <Resource>Eric Kim</Resource>
+      <ResourceShortName>E. Kim</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9jcIAC</Id>
+      <Resource>Shawn Quach</Resource>
+      <ResourceShortName>S. Quach</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>TD Wealth Management</Client>
+      <Salesperson>
+        <Name>William Kearns</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCH2IAO</Id>
+      <Resource>Waseem Butt</Resource>
+      <ResourceShortName>W. Butt</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Sinew Group Ltd</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCJXIA4</Id>
+      <Resource>Behram Qazi</Resource>
+      <ResourceShortName>B. Qazi</ResourceShortName>
+      <StartDate>2017-07-04T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Scotiabank</Client>
+      <Salesperson>
+        <Name>Anthony Mariani</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCZaIAO</Id>
+      <Resource>Kevin Campbell</Resource>
+      <ResourceShortName>K. Campbell</ResourceShortName>
+      <StartDate>2017-07-05T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>Barclays Wealth</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCgqIAG</Id>
+      <Resource>Jack Holmes</Resource>
+      <ResourceShortName>J. Holmes</ResourceShortName>
+      <StartDate>2017-07-05T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>DWP - Department for Work and Pensions</Client>
+      <Salesperson>
+        <Name>Nicola Harrison</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBgVIAW</Id>
+      <Resource>Sabrina Zapata</Resource>
+      <ResourceShortName>S. Zapata</ResourceShortName>
+      <StartDate>2017-07-05T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Barclays (US)</Client>
+      <Salesperson>
+        <Name>Matthew Klareich</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBvQIAW</Id>
+      <Resource>Yanjun Feng</Resource>
+      <ResourceShortName>Y. Feng</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBfSIAW</Id>
+      <Resource>Wei Ling Clarice Wong</Resource>
+      <ResourceShortName>W. Wong</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Name>Max Luff</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC6JIAW</Id>
+      <Resource>Rajiv Ahmed</Resource>
+      <ResourceShortName>R. Ahmed</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>Wincor Nixdorf (UK)</Client>
+      <Salesperson>
+        <Name>Paul Ames</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCACtIAO</Id>
+      <Resource>Rahul Prem Chandiramani</Resource>
+      <ResourceShortName>R. Chandiramani</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Name>Max Luff</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAHKIA4</Id>
+      <Resource>William Powell</Resource>
+      <ResourceShortName>W. Powell</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Deutsche Bank (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC8nTIAS</Id>
+      <Resource>Narayan Rimal</Resource>
+      <ResourceShortName>N. Rimal</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Steve Fielding</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9jDIAS</Id>
+      <Resource>Hanqing Li</Resource>
+      <ResourceShortName>H. Li</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9jIIAS</Id>
+      <Resource>Zachary John Doll</Resource>
+      <ResourceShortName>Z. John Doll</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCoaIAG</Id>
+      <Resource>Nur Syafiq Bin Suhaimi</Resource>
+      <ResourceShortName>N. Suhaimi</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCofIAG</Id>
+      <Resource>Sushmita Patnala</Resource>
+      <ResourceShortName>S. Patnala</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAnaIAG</Id>
+      <Resource>Michael Perper</Resource>
+      <ResourceShortName>M. Perper</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAUJIA4</Id>
+      <Resource>Matei-Florin Isofache</Resource>
+      <ResourceShortName>M. Isofache</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>HSBC Investment Bank Plc (HK)</Client>
+      <Salesperson>
+        <Name>Sherry Yu</Name>
+        <Office>Hong Kong</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAXDIA4</Id>
+      <Resource>Michael Tom</Resource>
+      <ResourceShortName>M. Tom</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Bank of America Wealth (GWIM)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAe4IAG</Id>
+      <Resource>Adam Stewart</Resource>
+      <ResourceShortName>A. Stewart</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Standard Life Employee Services Limited</Client>
+      <Salesperson>
+        <Name>Daniel Scully</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCB3EIAW</Id>
+      <Resource>Fady Ibrahim</Resource>
+      <ResourceShortName>F. Ibrahim</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Deutsche Bank (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCB3OIAW</Id>
+      <Resource>Alexander Goi</Resource>
+      <ResourceShortName>A. Goi</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>UBS *Asia*</Client>
+      <Salesperson>
+        <Name>Sophia Lin</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCB76IAG</Id>
+      <Resource>Kevin Dement</Resource>
+      <ResourceShortName>K. Dement</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCChAIAW</Id>
+      <Resource>Joseph Amankwah</Resource>
+      <ResourceShortName>J. Amankwah</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Lloyds Banking Group</Client>
+      <Salesperson>
+        <Name>Greg Morris</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCe1IAG</Id>
+      <Resource>Nsikakabasi Emah</Resource>
+      <ResourceShortName>N. Emah</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>BNP France</Client>
+      <Salesperson>
+        <Name>Yves Laffont</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCbbIAG</Id>
+      <Resource>Fraser Douglas Ellis</Resource>
+      <ResourceShortName>F. Ellis</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>HSBC Investment Bank Plc</Client>
+      <Salesperson>
+        <Name>Andrew MacArthur</Name>
+        <Office>Glasgow</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCThIAO</Id>
+      <Resource>Zhongdi Wang</Resource>
+      <ResourceShortName>Z. Wang</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>BMO</Client>
+      <Salesperson>
+        <Name>Kat Turchik</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCOSIA4</Id>
+      <Resource>Anca Tebrian</Resource>
+      <ResourceShortName>A. Tebrian</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Hapag Lloyd AG</Client>
+      <Salesperson>
+        <Name>Kaltrine Emini</Name>
+        <Office>Germany</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCa9IAG</Id>
+      <Resource>Timothy Lah</Resource>
+      <ResourceShortName>T. Lah</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>S&amp;P Global Inc</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCanIAG</Id>
+      <Resource>Ajay Phatak</Resource>
+      <ResourceShortName>A. Phatak</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Moody's Corporation</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCasIAG</Id>
+      <Resource>Osei Adoma</Resource>
+      <ResourceShortName>O. Adoma</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Moody's Corporation</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCFGIA4</Id>
+      <Resource>Andrew Ochero</Resource>
+      <ResourceShortName>A. Ochero</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Crown Jewel Consultants Limited</Client>
+      <Salesperson>
+        <Name>Charlotte Gallagher</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC56IAG</Id>
+      <Resource>Cameron Dublin</Resource>
+      <ResourceShortName>C. Dublin</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Deutsche Bank (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCNoIAO</Id>
+      <Resource>Kiran Irshad</Resource>
+      <ResourceShortName>K. Irshad</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Yorkshire Building Society</Client>
+      <Salesperson>
+        <Name>Chad Rooker</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCMlIAO</Id>
+      <Resource>Sylwia Duzniak</Resource>
+      <ResourceShortName>S. Duzniak</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>St. James's Place Management Services Limited</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCMqIAO</Id>
+      <Resource>Mohammed Moussa</Resource>
+      <ResourceShortName>M. Moussa</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>St. James's Place Management Services Limited</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6Rr5IAE</Id>
+      <Resource>Matthew Steuerer</Resource>
+      <ResourceShortName>M. Steuerer</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Charles Schwab &amp; Co., Inc</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6RrAIAU</Id>
+      <Resource>Benjamin Nuger</Resource>
+      <ResourceShortName>B. Nuger</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Charles Schwab &amp; Co., Inc</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCnhIAG</Id>
+      <Resource>Ilya Bezgoubov</Resource>
+      <ResourceShortName>I. Bezgoubov</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6QxqIAE</Id>
+      <Resource>Kristina Cayetano</Resource>
+      <ResourceShortName>K. Cayetano</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCggIAG</Id>
+      <Resource>Hong Wee Teo</Resource>
+      <ResourceShortName>H. Teo</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Joe Mclaren</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCfYIAW</Id>
+      <Resource>Jaslin Zhen Ting Wee</Resource>
+      <ResourceShortName>J. Wee</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6SDQIA2</Id>
+      <Resource>Svyatoslav Turets</Resource>
+      <ResourceShortName>S. Turets</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6SWmIAM</Id>
+      <Resource>Krishna Patel</Resource>
+      <ResourceShortName>K. Patel</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>T Rowe Price Associates, Inc.</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCmjIAG</Id>
+      <Resource>Karen Luong</Resource>
+      <ResourceShortName>K. Luong</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCmeIAG</Id>
+      <Resource>Kenneth Leow</Resource>
+      <ResourceShortName>K. Leow</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCpiIAG</Id>
+      <Resource>Elton Hongsen Lim</Resource>
+      <ResourceShortName>E. Lim</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCmUIAW</Id>
+      <Resource>Arkeith Cunningham</Resource>
+      <ResourceShortName>A. Cunningham</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Steve Fielding</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCsSIAW</Id>
+      <Resource>Lucy Stell</Resource>
+      <ResourceShortName>L. Stell</ResourceShortName>
+      <StartDate>2017-07-10T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Home Office</Client>
+      <Salesperson>
+        <Name>Oliver Hester</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6SCrIAM</Id>
+      <Resource>Timothy Ventarola</Resource>
+      <ResourceShortName>T. Ventarola</ResourceShortName>
+      <StartDate>2017-07-11T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Credit Suisse Securities (USA) LLC</Client>
+      <Salesperson>
+        <Name>Amanda Gustenhoven</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6SChIAM</Id>
+      <Resource>Michael Szymanski</Resource>
+      <ResourceShortName>M. Szymanski</ResourceShortName>
+      <StartDate>2017-07-11T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Credit Suisse Securities (USA) LLC</Client>
+      <Salesperson>
+        <Name>Amanda Gustenhoven</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCO3IAO</Id>
+      <Resource>Eniola Adenegan</Resource>
+      <ResourceShortName>E. Adenegan</ResourceShortName>
+      <StartDate>2017-07-12T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>The London Metal Exchange</Client>
+      <Salesperson>
+        <Name>Henry Oppon</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBE7IAO</Id>
+      <Resource>Jenine Peterson-Broadie</Resource>
+      <ResourceShortName>J. Peterson-Broadie</ResourceShortName>
+      <StartDate>2017-07-12T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Moody's Corporation</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCB3JIAW</Id>
+      <Resource>Siong Yin Joseph Toh</Resource>
+      <ResourceShortName>S. Toh</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>UBS *Asia*</Client>
+      <Salesperson>
+        <Name>Sophia Lin</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBElIAO</Id>
+      <Resource>WooJin Jang</Resource>
+      <ResourceShortName>W. Jang</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Morgan Stanley Services Canada Corp.</Client>
+      <Salesperson>
+        <Name>Thomas Monagle</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC4wIAG</Id>
+      <Resource>Bahja Sofiane</Resource>
+      <ResourceShortName>B. Sofiane</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Carswell, a division of Thomson Reuters Canada Limited</Client>
+      <Salesperson>
+        <Name>Kat Turchik</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC6sIAG</Id>
+      <Resource>Harris Fok</Resource>
+      <ResourceShortName>H. Fok</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC72IAG</Id>
+      <Resource>Vladimiras Desiatnikovas</Resource>
+      <ResourceShortName>V. Desiatnikovas</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Aviva Central Services UK Ltd</Client>
+      <Salesperson>
+        <Name>Ben Cawood</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC14IAG</Id>
+      <Resource>Adrion Arkenberg</Resource>
+      <ResourceShortName>A. Arkenberg</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Neuberger Berman USA</Client>
+      <Salesperson>
+        <Name>Amanda Gustenhoven</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCFVIA4</Id>
+      <Resource>Ricardo Lopes</Resource>
+      <ResourceShortName>R. Lopes</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Business Intelligence</Division>
+      <Client>Barclays Group Risk</Client>
+      <Salesperson>
+        <Name>Rory Flavell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCaxIAG</Id>
+      <Resource>ZhiQiang Piao</Resource>
+      <ResourceShortName>Z. Piao</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCbHIAW</Id>
+      <Resource>Ben Corston</Resource>
+      <ResourceShortName>B. Corston</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BP International Ltd</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCZzIAO</Id>
+      <Resource>Philip Park</Resource>
+      <ResourceShortName>P. Park</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCfsIAG</Id>
+      <Resource>Adam Pritchard</Resource>
+      <ResourceShortName>A. Pritchard</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Business Analysis</Division>
+      <Client>BP International Ltd</Client>
+      <Salesperson>
+        <Name>Charlotte Williams</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCgHIAW</Id>
+      <Resource>Georgina Edkins</Resource>
+      <ResourceShortName>G. Edkins</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>Virgin Money Plc</Client>
+      <Salesperson>
+        <Name>Richard Handley</Name>
+        <Office>Leeds</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCcAIAW</Id>
+      <Resource>Lebin Huang</Resource>
+      <ResourceShortName>L. Huang</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCqRIAW</Id>
+      <Resource>Bhavi Mehta</Resource>
+      <ResourceShortName>B. Mehta</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>BNP France</Client>
+      <Salesperson>
+        <Name>Yves Laffont</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCqqIAG</Id>
+      <Resource>Edwin Lai</Resource>
+      <ResourceShortName>E. Lai</ResourceShortName>
+      <StartDate>2017-07-17T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCeGIAW</Id>
+      <Resource>Kseniya Yemelyanova</Resource>
+      <ResourceShortName>K. Yemelyanova</ResourceShortName>
+      <StartDate>2017-07-20T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>BNP Paribas (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCeLIAW</Id>
+      <Resource>James Bell</Resource>
+      <ResourceShortName>J. Bell</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC7HIAW</Id>
+      <Resource>Daniel French</Resource>
+      <ResourceShortName>D. French</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCTcIAO</Id>
+      <Resource>Stephanie Ovcharik</Resource>
+      <ResourceShortName>S. Ovcharik</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Barclays (US)</Client>
+      <Salesperson>
+        <Name>Matthew Klareich</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBuXIAW</Id>
+      <Resource>Mikhail Ossipov</Resource>
+      <ResourceShortName>M. Ossipov</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBwOIAW</Id>
+      <Resource>Ya Gao</Resource>
+      <ResourceShortName>Y. Gao</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Morgan Stanley &amp; Co International Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBhEIAW</Id>
+      <Resource>Ali Kianirad</Resource>
+      <ResourceShortName>A. Kianirad</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RBC Capital Markets LLC</Client>
+      <Salesperson>
+        <Name>Sean Batts</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBKPIA4</Id>
+      <Resource>Wei Xing Ng</Resource>
+      <ResourceShortName>W. Ng</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>RHB Bank Berhad (Singapore)</Client>
+      <Salesperson>
+        <Name>Junjie Yam</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCfdIAG</Id>
+      <Resource>Shankara S</Resource>
+      <ResourceShortName>S. S</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Testing</Division>
+      <Client>ANZ Singapore</Client>
+      <Salesperson>
+        <Name>Ashwin Sadananthan</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9h7IAC</Id>
+      <Resource>Wooju Park</Resource>
+      <ResourceShortName>W. Park</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Steve Fielding</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAISIA4</Id>
+      <Resource>Sundar Sekar</Resource>
+      <ResourceShortName>S. Sekar</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCuJIAW</Id>
+      <Resource>Izayah Vincent Allen</Resource>
+      <ResourceShortName>I. Allen</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Barclays (US)</Client>
+      <Salesperson>
+        <Name>Matthew Klareich</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCq2IAG</Id>
+      <Resource>Vishnu Priya Edara</Resource>
+      <ResourceShortName>V. Edara</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>Barclays (US)</Client>
+      <Salesperson>
+        <Name>Matthew Klareich</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6SWhIAM</Id>
+      <Resource>Marc Switzer</Resource>
+      <ResourceShortName>M. Switzer</ResourceShortName>
+      <StartDate>2017-07-24T00:00:00</StartDate>
+      <Division>Data Services</Division>
+      <Client>T Rowe Price Associates, Inc.</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000b6SCmIAM</Id>
+      <Resource>Riston Bergen</Resource>
+      <ResourceShortName>R. Bergen</ResourceShortName>
+      <StartDate>2017-07-25T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Credit Suisse Securities (USA) LLC</Client>
+      <Salesperson>
+        <Name>Amanda Gustenhoven</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCadIAG</Id>
+      <Resource>Ihab Basri</Resource>
+      <ResourceShortName>I. Basri</ResourceShortName>
+      <StartDate>2017-07-25T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>TD Wealth Management</Client>
+      <Salesperson>
+        <Name>Joshua Fawssett</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCSoIAO</Id>
+      <Resource>Joseph Bannert</Resource>
+      <ResourceShortName>J. Bannert</ResourceShortName>
+      <StartDate>2017-07-31T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Standard Chartered Bank *Singapore*</Client>
+      <Salesperson>
+        <Name>Max Luff</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAqFIAW</Id>
+      <Resource>Ted Chung</Resource>
+      <ResourceShortName>T. Chung</ResourceShortName>
+      <StartDate>2017-07-31T00:00:00</StartDate>
+      <Division>PMO</Division>
+      <Client>UBS (USA)</Client>
+      <Salesperson>
+        <Name>Thomas Monagle</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBC1IAO</Id>
+      <Resource>Dino Suvalic</Resource>
+      <ResourceShortName>D. Suvalic</ResourceShortName>
+      <StartDate>2017-07-31T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Neuberger Berman USA</Client>
+      <Salesperson>
+        <Name>Amanda Gustenhoven</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBCfIAO</Id>
+      <Resource>Jonathan Getahun</Resource>
+      <ResourceShortName>J. Getahun</ResourceShortName>
+      <StartDate>2017-07-31T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Credit Suisse Securities (USA) LLC</Client>
+      <Salesperson>
+        <Name>Amanda Gustenhoven</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBf8IAG</Id>
+      <Resource>Kamal James</Resource>
+      <ResourceShortName>K. James</ResourceShortName>
+      <StartDate>2017-07-31T00:00:00</StartDate>
+      <Division>Murex</Division>
+      <Client>Aegon USA Investment Management, LLC</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBxWIAW</Id>
+      <Resource>Devi Kumarappan</Resource>
+      <ResourceShortName>D. Kumarappan</ResourceShortName>
+      <StartDate>2017-07-31T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC51IAG</Id>
+      <Resource>Warren Gabrillo</Resource>
+      <ResourceShortName>W. Gabrillo</ResourceShortName>
+      <StartDate>2017-08-01T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>McKinsey Investment Office Partners</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAnLIAW</Id>
+      <Resource>Albert Thomas</Resource>
+      <ResourceShortName>A. Thomas</ResourceShortName>
+      <StartDate>2017-08-01T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCAnQIAW</Id>
+      <Resource>Edwin Steinmetz</Resource>
+      <ResourceShortName>E. Steinmetz</ResourceShortName>
+      <StartDate>2017-08-01T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBPPIA4</Id>
+      <Resource>Ronald Edward Myers</Resource>
+      <ResourceShortName>R. Myers</ResourceShortName>
+      <StartDate>2017-08-07T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCA9fIAG</Id>
+      <Resource>William Whitlock</Resource>
+      <ResourceShortName>W. Whitlock</ResourceShortName>
+      <StartDate>2017-08-07T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCf4IAG</Id>
+      <Resource>Chung Kim</Resource>
+      <ResourceShortName>C. Kim</ResourceShortName>
+      <StartDate>2017-08-07T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Bank Of America Merrill Lynch (USA)</Client>
+      <Salesperson>
+        <Name>Ashley Lofters</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCfEIAW</Id>
+      <Resource>Karl Watson</Resource>
+      <ResourceShortName>K. Watson</ResourceShortName>
+      <StartDate>2017-08-07T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>TD Securities</Client>
+      <Salesperson>
+        <Name>Cody Herr</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCepIAG</Id>
+      <Resource>Jeffrey Britton</Resource>
+      <ResourceShortName>J. Britton</ResourceShortName>
+      <StartDate>2017-08-14T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>Credit Suisse Securities (USA) LLC</Client>
+      <Salesperson>
+        <Name>Steve Fielding</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCC77IAG</Id>
+      <Resource>Nathaniel Mendoza</Resource>
+      <ResourceShortName>N. Mendoza</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>UBS (USA)</Client>
+      <Salesperson>
+        <Name>Thomas Monagle</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBuSIAW</Id>
+      <Resource>Geraldine Abbey</Resource>
+      <ResourceShortName>G. Abbey</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Morgan Stanley &amp; Co International Plc</Client>
+      <Salesperson>
+        <Name>Frazer Barrell</Name>
+        <Office>London</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBg1IAG</Id>
+      <Resource>James Allen</Resource>
+      <ResourceShortName>J. Allen</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Murex</Division>
+      <Client>UBS Investment Bank (LDN)</Client>
+      <Salesperson>
+        <Name>Max Voegtli</Name>
+        <Office>Switzerland</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBZtIAO</Id>
+      <Resource>George Bellhouse-Edwards</Resource>
+      <ResourceShortName>G. Bellhouse-Edwards</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Murex</Division>
+      <Client>UBS *Asia*</Client>
+      <Salesperson>
+        <Name>Sophia Lin</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBZyIAO</Id>
+      <Resource>Philip Daniel</Resource>
+      <ResourceShortName>P. Daniel</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Murex</Division>
+      <Client>UBS *Asia*</Client>
+      <Salesperson>
+        <Name>Sophia Lin</Name>
+        <Office>Singapore</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCqCIAW</Id>
+      <Resource>Ernesto Paz</Resource>
+      <ResourceShortName>E. Paz</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>MUFG Union Bank, N.A.</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCqHIAW</Id>
+      <Resource>Yuxin Wang</Resource>
+      <ResourceShortName>Y. Wang</ResourceShortName>
+      <StartDate>2017-08-21T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>MUFG Union Bank, N.A.</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCZuIAO</Id>
+      <Resource>Vidhi Shah</Resource>
+      <ResourceShortName>V. Shah</ResourceShortName>
+      <StartDate>2017-08-23T00:00:00</StartDate>
+      <Division>Support</Division>
+      <Client>BMO</Client>
+      <Salesperson>
+        <Name>Kat Turchik</Name>
+        <Office>Canada</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCCc5IAG</Id>
+      <Resource>Reem Hassan</Resource>
+      <ResourceShortName>R. Hassan</ResourceShortName>
+      <StartDate>2017-08-28T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBgaIAG</Id>
+      <Resource>Evan Manuella</Resource>
+      <ResourceShortName>E. Manuella</ResourceShortName>
+      <StartDate>2017-08-28T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Citigroup (USA)</Client>
+      <Salesperson>
+        <Name>Rupert Pearce</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBxbIAG</Id>
+      <Resource>Sindhu Thokala</Resource>
+      <ResourceShortName>S. Thokala</ResourceShortName>
+      <StartDate>2017-08-28T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCA9kIAG</Id>
+      <Resource>Carmerci Jimenez</Resource>
+      <ResourceShortName>C. Jimenez</ResourceShortName>
+      <StartDate>2017-08-28T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aC9hRIAS</Id>
+      <Resource>Halley Froeb</Resource>
+      <ResourceShortName>H. Froeb</ResourceShortName>
+      <StartDate>2017-08-28T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+    <Placement>
+      <Id>a0yD000000aCBxgIAG</Id>
+      <Resource>Pavitra Enagandula</Resource>
+      <ResourceShortName>P. Enagandula</ResourceShortName>
+      <StartDate>2017-10-30T00:00:00</StartDate>
+      <Division>Consulting</Division>
+      <Client>Fannie Mae</Client>
+      <Salesperson>
+        <Name>Doris Culajay</Name>
+        <Office>United States</Office>
+      </Salesperson>
+    </Placement>
+  </RecentPlacements>
+</OpportunitiesViewData>

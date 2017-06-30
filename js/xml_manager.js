@@ -180,15 +180,13 @@ function parseXml(xml) {
 var jsonData = {};
 
 function loadXMLDoc() {
-  // headers.append('Access-Control-Allow-Origin', 'http://localhost:3000');
-  // headers.append('Access-Control-Allow-Credentials', 'true');
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       myFunction(this);
     }
   };
-  xmlhttp.open("GET", "http://localhost:7777/xml/user.xml", true);
+  xmlhttp.open("GET", "xml/jobs.xml", true);
   xmlhttp.send();
 }
 
@@ -198,7 +196,30 @@ function myFunction(xml) {
   jsonData = xml2json(dom);
   jsonData = jsonData.replace("undefined", "");
   jsonData = JSON.parse(jsonData);
-  console.log(jsonData);
+  console.log("jsonData");
+
+  // console.log(JSON.stringify(jsonData));
+  // console.log(jsonData.OpportunitiesViewData);
+  var jobsLen = jsonData.OpportunitiesViewData.OpenOpportunityRoles.OpportunityRole.length;
+  var jobsArr = jsonData.OpportunitiesViewData.OpenOpportunityRoles.OpportunityRole;
+  for(var i=0;i<jobsLen;i++){
+    var location = jobsArr[i].Salesperson.Office;
+    var jobName = jobsArr[i].Name;
+    var jobCompany = jobsArr[i].Client;
+    var jobType = jobsArr[i].Division;
+    var jobAM = jobsArr[i].Salesperson.Name;
+    if(location == "HK"){
+      $("#jobs-table tbody").append('<tr>\
+        <td>'+jobName+'</td>\
+        <td>'+jobCompany+'</td>\
+        <td>'+jobType+'</td>\
+        <td>'+jobAM+'</td>\
+        </tr>');
+    }
+  }
+  
 }
 
-
+$(document).ready(function(){
+  loadXMLDoc();
+});

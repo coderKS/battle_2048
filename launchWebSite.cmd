@@ -11,7 +11,7 @@ goto warn_and_exit
 :ver_Win7
 :Run Windows 7 specific commands here
 REM echo OS Version: Windows 7 (debug line)
-"C:\Program Files (x86)\IIS Express\iisexpress.exe" /port:7777 /path:"C:\Users\Johnny.Wong\Downloads\battle_2048"
+"C:\Program Files (x86)\IIS Express\iisexpress.exe" /port:7777 /path:"H:\Documents\training material\web application design\battle_2048"
 goto end
 
 :warn_and_exit

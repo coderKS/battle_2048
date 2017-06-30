@@ -60,6 +60,9 @@ function getImgPath(player, opt){
     case "img-"+player+"-8":
     	img_path = 'images/billy.jpg';
       break;
+    case "img-"+player+"-9":
+      img_path = 'images/andy.jpg';
+      break;
     default:
     	break;
 	}
