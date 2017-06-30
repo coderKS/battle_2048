@@ -26,12 +26,17 @@ GameManager.prototype.restart = function () {
   var name2 = new URL(window.location.href).searchParams.get("player2");
   var unlock_chris = false;
   var unlock_billy = false;
+  var unlock_andy  = false;
+
   var url = '';
   if($(".tile-128").length){
     unlock_chris = true;
   }
   if($(".tile-256").length){
     unlock_billy = true;
+  }
+  if($(".tile-512").length){
+    unlock_andy = true;
   }
   console.log(name1, name2, unlock_chris, unlock_billy);
   url = "./selectCharacter.html" + "?player1="+name1+"&player2="+name2;
@@ -40,6 +45,9 @@ GameManager.prototype.restart = function () {
   }
   if(unlock_billy){
     url += "&billy=1";
+  }
+  if(unlock_billy){
+    url += "&andy=1";
   }
   console.log("url="+url);
   window.location.replace(url);
