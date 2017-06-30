@@ -95,8 +95,21 @@ $(document).ready(function(){
 			valid = false;
 			$(".player2-menu .input-warning").removeClass("hide-text");
 		}
+
+		var url = "./index.html" + "?player1="+name1+"&player2="+name2+"&char1="+p1_option+"&char2="+p2_option;
+		if(unlock_chris){
+			url += "&chris=1";
+		}
+		if(unlock_billy){
+			url += "&billy=1";
+		}
+		if(unlock_andy){
+			url += "&andy=1";
+		}
+		console.log(unlock_chris,unlock_billy, unlock_andy);
+		console.log(url);
 		if(valid){
-			window.location.replace("./index.html" + "?player1="+name1+"&player2="+name2+"&char1="+p1_option+"&char2="+p2_option);
+			window.location.replace(url);
 		}
 		
 	});

@@ -40,15 +40,17 @@ GameManager.prototype.restart = function () {
   }
   console.log(name1, name2, unlock_chris, unlock_billy);
   url = "./selectCharacter.html" + "?player1="+name1+"&player2="+name2;
-  if(unlock_chris){
+
+  if(unlock_chris || new URL(window.location.href).searchParams.get("chris") == "1"){
     url += "&chris=1";
   }
-  if(unlock_billy){
+  if(unlock_billy || new URL(window.location.href).searchParams.get("billy") == "1"){
     url += "&billy=1";
   }
-  if(unlock_billy){
+  if(unlock_billy || new URL(window.location.href).searchParams.get("andy") == "1"){
     url += "&andy=1";
   }
+
   console.log("url="+url);
   window.location.replace(url);
   // this.timer.startCount();
